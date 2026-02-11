@@ -479,8 +479,9 @@ class StreamChecker:
         for url in urls:
             try:
                 logger.info(f"获取远程URL: {url}")
+                encoded_url = quote(unquote(url), safe=':/?&=#')
                 req = urllib.request.Request(
-                    url,
+                    encoded_url,
                     headers={"User-Agent": Config.USER_AGENT_URL}
                 )
                 
