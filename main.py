@@ -162,10 +162,6 @@ def load_channel_dictionaries(main_dir: str, local_dir: str) -> tuple[dict, dict
         "江西频道": "江西频道.txt", "宁夏频道": "宁夏频道.txt", "青海频道": "青海频道.txt",
         "四川频道": "四川频道.txt", "天津频道": "天津频道.txt", "新疆频道": "新疆频道.txt"
     }
-    lite_sort = [
-        "央视频道", "卫视频道", "港澳台", "电影频道", "电视剧频道", "综艺频道",
-        "NewTV", "iHOT", "体育频道", "咪咕直播", "埋堆堆", "音乐频道", "游戏频道", "解说频道"
-    ]
 
     main_dict = {}
     for chn_type, filename in main_channels.items():
@@ -181,7 +177,7 @@ def load_channel_dictionaries(main_dir: str, local_dir: str) -> tuple[dict, dict
         local_dict[chn_type] = lines
         print(f"[INFO] 加载地方台 {chn_type}: {len(lines)} 个")
 
-    return main_dict, local_dict, lite_sort
+    return main_dict, local_dict
 
 # ===================== 频道分类核心 =====================
 class ChannelClassifier:
@@ -335,21 +331,25 @@ def sort_channel_data(channel_data: list, chn_type: str, cfg_list: list) -> list
             return pure_name if pure_name else name
         return sorted(channel_data, key=_dict_key)
 
-def generate_live_text(classifier: ChannelClassifier, main_dict: dict, lite_sort: list) -> tuple[list, list]:
+def generate_live_text(classifier: ChannelClassifier, main_dict: dict) -> tuple[list, list]:
     bj_time = datetime.now(timezone.utc) + timedelta(hours=8)
     formatted_time = bj_time.strftime("%Y%m%d %H:%M")
-    version = f"{formatted_time},https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
+    version = f"{formatted_time},http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
     header = ["更新时间,#genre#", version, '\n']
 
-    # 生成lite版
+    # 生成lite精简版
     lite_lines = header.copy()
-    for chn_type in lite_sort:
+    lite_sort_types = [
+        "央视频道", "卫视频道", "港澳台", "电影频道", "电视剧频道", "综艺频道",
+        "NewTV", "iHOT", "体育频道", "咪咕直播", "埋堆堆", "音乐频道", "游戏频道", "解说频道"
+    ]
+    for chn_type in lite_sort_types:
         chn_data = classifier.get_channel_data(chn_type)
         sorted_data = sort_channel_data(chn_data, chn_type, main_dict[chn_type])
         lite_lines += [f"{chn_type},#genre#"] + sorted_data + ['\n']
     lite_lines = lite_lines[:-1] if lite_lines and lite_lines[-1] == '\n' else lite_lines
 
-    # 生成full版
+    # 补全剩余生成full版
     full_lines = lite_lines.copy() + ['\n']
     full_other_types = [
         "儿童频道", "国际台", "纪录片", "戏曲频道", "上海频道", "湖南频道",
@@ -405,7 +405,7 @@ if __name__ == "__main__":
     
     blacklist = load_blacklist(dirs["blacklist_auto"], dirs["blacklist_manual"])
     corrections = load_corrections(dirs["corrections_name"])
-    main_dict, local_dict, lite_sort = load_channel_dictionaries(dirs["main_channel"], dirs["local_channel"])
+    main_dict, local_dict = load_channel_dictionaries(dirs["main_channel"], dirs["local_channel"])
     classifier = ChannelClassifier(main_dict, local_dict, blacklist)
 
     print(f"[PROCESS] 处理手动白名单")
@@ -437,7 +437,7 @@ if __name__ == "__main__":
             process_remote_url(url, classifier, corrections)
 
     print(f"[GENERATE] 生成live.txt/live_lite.txt")
-    live_full, live_lite = generate_live_text(classifier, main_dict, lite_sort)
+    live_full, live_lite = generate_live_text(classifier, main_dict)
     live_full_path = os.path.join(dirs["root"], "live.txt")
     live_lite_path = os.path.join(dirs["root"], "live_lite.txt")
     others_path = os.path.join(dirs["root"], "others.txt")
@@ -462,6 +462,7 @@ if __name__ == "__main__":
     print(f"[STAT] live.txt行数: {live_count}")
     print(f"[STAT] others.txt行数: {others_count}")
     print("=" * 60)
+
 
 
 
