@@ -933,5 +933,5 @@ class StreamChecker:
             logger.info("检测结束")
 
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
