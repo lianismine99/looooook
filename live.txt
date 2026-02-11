@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260211 15:22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260212 04:27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2440,6 +2440,7 @@ Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳门莲花,https://tv.iill.top/mo/lotustv?token=dd665327e3532be6855e1ba615c4abb759eea1b7efcea7293c63cd856a0824e5
 镜电视新闻,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 镜电视新闻,https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8
 镜电视新闻,https://mao.ffmking888.dpdns.org/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -5247,7 +5248,6 @@ Discovery,https://hls.iill.top/api/Discovery/index.m3u8
 湖南爱晚,http://www.peanutbar.cn:8099/tsfile/live/1003_1.m3u8?key=txiptv
 湖南爱晚,http://111.8.242.126:9999/tsfile/live/1014_1.m3u8
 湖南爱晚,http://124.231.212.230:9999/tsfile/live/1097_1.m3u8
-湖南爱晚,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9NDFjM2VmY2VkODhkNzg2YmIwMGE3NzQ1ZjlmZjRlNGUmdWlkPSZ1dWlkPTk1YTcxMTM4YmY2MTE3Njk3M2IyYWUxMzM1ZDE4ZjliLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NzA4MTEyMDQ,/HNGGMPP360.m3u8
 湖南爱晚,http://8.138.7.223/tv/mgtv.php?id=261
 湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221
 湖南电影,http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
@@ -5368,7 +5368,6 @@ Discovery,https://hls.iill.top/api/Discovery/index.m3u8
 长沙新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 长沙新闻综合,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/CSXWMPP360.m3u8
-长沙新闻频道,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz1kZmJiYWY5N2E2ODgzY2E3ODU4ZTdmNjU4NWRjMjZjNCZ1aWQ9JnV1aWQ9NzQzMTE3Y2FiYWY1ZTUxZjUxMGE0YWYxNWUyM2U5ODEtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc3MDgyMTc5Mw,,/CSXWMPP360.m3u8
 
 
 湖北频道,#genre#
@@ -6972,6 +6971,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 海南公共,https://t.freetv.fun/live/hai-nan-gong-gong-3.m3u8
 海南公共,https://t.freetv.fun/live/hai-nan-gong-gong.m3u8
 海南公共,http://8.138.7.223/tv/hainan.php?id=ggpd
+海南公共,https://migu.188766.xyz/?migutoken=39fe9450599cb916e361ca3fe06c80d5&id=hn_ggpd&type=sz
 海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
@@ -6996,6 +6996,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 海南文旅,https://t.freetv.fun/live/hai-nan-wen-lu-3.m3u8
 海南文旅,https://t.freetv.fun/live/hai-nan-wen-lu.m3u8
 海南文旅,http://8.138.7.223/tv/hainan.php?id=wlpd
+海南文旅,https://migu.188766.xyz/?migutoken=fa06fc17a102cea73dc7f178070b87e0&id=hn_wlpd&type=sz
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 海南新闻,http://153.0.171.163:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -7013,6 +7014,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 海南新闻,https://stream1.freetv.fun/ipv6-hai-nan-xin-wen-10.m3u8
 海南新闻,https://stream1.freetv.fun/ipv6-hai-nan-xin-wen-6.m3u8
 海南新闻,http://8.138.7.223/tv/hainan.php?id=xwpd
+海南新闻,https://migu.188766.xyz/?migutoken=01e6d26dd7f0706a48c39f5f2ae8e606&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
 海南自贸,https://migu.188766.xyz/?migutoken=1d2bec3e12a18bf82d0a988bae5088a1&id=hn_jjpd&type=sz
@@ -7026,6 +7028,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 海南自贸,https://migu.188766.xyz/?migutoken=a76a64fccf4619fe533b78bc86334f12&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=bbf4f6df8c4606d900dee13c1d2cb786&id=hn_jjpd&type=sz
 海南自贸,http://8.138.7.223/tv/hainan.php?id=jjpd
+海南自贸,https://migu.188766.xyz/?migutoken=5f30f46abdd6ade8f25388012496670c&id=hn_jjpd&type=sz
 
 
 内蒙频道,#genre#
@@ -7315,7 +7318,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
-麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 
 
 北京频道,#genre#
@@ -7358,6 +7360,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京生活,http://8.138.7.223/tv/bj.php?id=0006
 北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+北京生活,https://migu.188766.xyz/?migutoken=1ec37ac6d06bea4e86b53d8a2aa610b0&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京科教,http://171.110.42.239:8181/tsfile/live/1030_1.m3u8
 北京科教,http://222.217.230.192:8181/tsfile/live/1030_1.m3u8
@@ -7381,6 +7384,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 北京财经,http://8.138.7.223/tv/bj.php?id=0005
 北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+北京财经,https://migu.188766.xyz/?migutoken=d71d0f32f175bfbfc2074260b093b10e&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京青年,http://114.252.238.87:8000/udp/239.3.1.118:8000
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
@@ -7949,6 +7953,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 
 黑龙江频道,#genre#
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
 佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
@@ -7975,6 +7980,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 哈尔滨新闻综合,https://t.freetv.fun/live/ha-er-bin-xin-wen-zong-he-2.m3u8
 哈尔滨新闻综合,https://t.freetv.fun/live/ha-er-bin-xin-wen-zong-he-1.m3u8
 哈尔滨新闻综合,https://t.freetv.fun/live/ha-er-bin-xin-wen-zong-he.m3u8
+哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
@@ -8834,6 +8840,7 @@ dj《错过不是我的错》,hhttps://vd3.bdstatic.com/mda-na6dv0mi83nwdcj9/sc/
 中国之声,https://fanmingming.cn/fm?id=639
 中国交通广播,https://tv.iill.top/fm/755?token=ab2864df47874c02973abd7a7be51f7c5ae509c467604ecbe158533bf4a5632c
 中国交通广播,https://fanmingming.cn/fm?id=653
+中国交通广播,https://tv.iill.top/fm/755?token=dd665327e3532be6855e1ba615c4abb759eea1b7efcea7293c63cd856a0824e5
 哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
 环球资讯广播,https://fanmingming.cn/fm?id=692
 经济之声,https://fanmingming.cn/fm?id=640
