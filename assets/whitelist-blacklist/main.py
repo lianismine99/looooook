@@ -41,7 +41,7 @@ class Config:
     
     # 重试配置
     MAX_RETRIES = 0             # 重试次数（0表示不重试）
-    RETRY_DELAY = 1             # 重试等待（秒）
+    RETRY_DELAY = 0             # 重试等待（秒）
     
     # 域名评估配置
     MIN_SUCCESS_RATE = 0.8      # 最低成功率（优秀域名）
@@ -93,17 +93,21 @@ class DomainAnalyzer:
         stats = self.domain_stats[domain]
         
         if stats['total_count'] < Config.MIN_SAMPLES:
-            return 0.0, {'reason': '样本不足'}
+            return 0.0, {'reason': '样本不足', 'total_count': stats['total_count']}
+        
+        # 计算超时率
+        timeout_rate = stats['timeout_count'] / stats['total_count'] if stats['total_count'] > 0 else 0
         
         # 计算成功率（排除超时）
         valid_checks = stats['total_count'] - stats['timeout_count']
         if valid_checks == 0:
-            return 0.0, {'reason': '无有效检测'}
+            return 0.0, {
+                'reason': '无有效检测',
+                'total_count': stats['total_count'],
+                'timeout_rate': timeout_rate
+            }
         
-        success_rate = stats['success_count'] / valid_checks if valid_checks > 0 else 0
-        
-        # 计算超时率
-        timeout_rate = stats['timeout_count'] / stats['total_count'] if stats['total_count'] > 0 else 0
+        success_rate = stats['success_count'] / valid_checks
         
         # 计算平均响应时间
         avg_response = 0
@@ -141,7 +145,8 @@ class DomainAnalyzer:
             'stability': stability,
             'url_count': len(stats['urls']),
             'total_checks': stats['total_count'],
-            'timeout_checks': stats['timeout_count']
+            'timeout_checks': stats['timeout_count'],
+            'valid_checks': valid_checks
         }
         
         return score, metrics
@@ -156,9 +161,11 @@ class DomainAnalyzer:
         for domain in self.domain_stats.keys():
             score, metrics = self.calculate_domain_score(domain)
             
-            # 超时率超过30%标记为不稳定
-            if metrics['timeout_rate'] > 0.3:
-                self.unstable_domains.add(domain)
+            # 检查是否有timeout_rate键
+            if 'timeout_rate' in metrics:
+                # 超时率超过30%标记为不稳定
+                if metrics['timeout_rate'] > 0.3:
+                    self.unstable_domains.add(domain)
             
             if score >= 0.8:
                 self.excellent_domains.add(domain)
@@ -172,14 +179,15 @@ class DomainAnalyzer:
         report = []
         for domain in self.excellent_domains:
             score, metrics = self.calculate_domain_score(domain)
+            # 确保所有需要的键都存在
             report.append({
                 'domain': domain,
                 'score': round(score, 3),
-                'success_rate': round(metrics['success_rate'] * 100, 1),
-                'timeout_rate': round(metrics['timeout_rate'] * 100, 1),
-                'avg_response': round(metrics['avg_response'], 1),
-                'url_count': metrics['url_count'],
-                'total_checks': metrics['total_checks']
+                'success_rate': round(metrics.get('success_rate', 0) * 100, 1),
+                'timeout_rate': round(metrics.get('timeout_rate', 0) * 100, 1),
+                'avg_response': round(metrics.get('avg_response', 0), 1),
+                'url_count': metrics.get('url_count', 0),
+                'total_checks': metrics.get('total_checks', 0)
             })
         
         # 按分数排序
@@ -194,21 +202,26 @@ class DomainAnalyzer:
             'good_domains': list(self.good_domains),
             'poor_domains': list(self.poor_domains),
             'unstable_domains': list(self.unstable_domains),
-            'detailed_stats': {
-                domain: {
+            'detailed_stats': {}
+        }
+        
+        # 填充详细统计
+        for domain, stats in self.domain_stats.items():
+            if stats['total_count'] >= Config.MIN_SAMPLES:
+                timeout_rate = stats['timeout_count'] / stats['total_count'] if stats['total_count'] > 0 else 0
+                valid_checks = stats['total_count'] - stats['timeout_count']
+                success_rate = stats['success_count'] / valid_checks if valid_checks > 0 else 0
+                
+                analysis_data['detailed_stats'][domain] = {
                     'success_count': stats['success_count'],
                     'total_count': stats['total_count'],
                     'timeout_count': stats['timeout_count'],
-                    'success_rate': round(stats['success_count'] / max(1, stats['total_count'] - stats['timeout_count']) * 100, 1),
-                    'timeout_rate': round(stats['timeout_count'] / stats['total_count'] * 100, 1) if stats['total_count'] > 0 else 0,
+                    'success_rate': round(success_rate * 100, 1),
+                    'timeout_rate': round(timeout_rate * 100, 1),
                     'avg_response': round(statistics.mean(stats['response_times']), 2) if stats['response_times'] else 0,
                     'url_count': len(stats['urls']),
                     'sample_urls': list(stats['urls'])[:3]
                 }
-                for domain, stats in self.domain_stats.items()
-                if stats['total_count'] >= Config.MIN_SAMPLES
-            }
-        }
         
         try:
             os.makedirs(os.path.dirname(filepath), exist_ok=True)
@@ -579,6 +592,7 @@ class StreamChecker:
             processed = 0
             success_count = 0
             timeout_count = 0
+            failed_count = 0
             
             for future in as_completed(futures):
                 idx, line, url = futures[future]
@@ -602,6 +616,7 @@ class StreamChecker:
                     elif status is False:
                         # 不可用
                         failed_list.append(line)
+                        failed_count += 1
                     elif status is None:
                         # 超时/未知
                         timeout_list.append(line)
@@ -613,7 +628,7 @@ class StreamChecker:
                         # 如果SKIP_TIMEOUT_URLS为True，则超时URL不会进入任何列表
                     
                     if processed % 50 == 0 or processed == total:
-                        logger.info(f"进度: {processed}/{total} | 成功: {success_count} | 超时: {timeout_count}")
+                        logger.info(f"进度: {processed}/{total} | 成功: {success_count} | 超时: {timeout_count}  | 失败: {failed_count}")
                         
                 except Exception as e:
                     logger.error(f"处理链接失败 {line}: {e}")
@@ -688,9 +703,9 @@ class StreamChecker:
         
         for domain in domains_list:
             stats = self.domain_analyzer.domain_stats[domain]
+            timeout_rate = stats['timeout_count'] / stats['total_count'] if stats['total_count'] > 0 else 0
             valid_checks = stats['total_count'] - stats['timeout_count']
             success_rate = stats['success_count'] / valid_checks if valid_checks > 0 else 0
-            timeout_rate = stats['timeout_count'] / stats['total_count'] if stats['total_count'] > 0 else 0
             
             avg_response = 0
             if stats['response_times']:
@@ -710,18 +725,19 @@ class StreamChecker:
                      list(self.domain_analyzer.good_domains)
         
         # 按成功率排序
-        sorted_domains = sorted(
-            all_domains,
-            key=lambda x: self.domain_analyzer.domain_stats[x]['success_count'] / 
-                         max(1, self.domain_analyzer.domain_stats[x]['total_count'] - 
-                             self.domain_analyzer.domain_stats[x]['timeout_count']),
-            reverse=True
-        )
-        
-        for domain in sorted_domains[:100]:  # 前100名
+        sorted_domains = []
+        for domain in all_domains:
             stats = self.domain_analyzer.domain_stats[domain]
             valid_checks = stats['total_count'] - stats['timeout_count']
-            success_rate = stats['success_count'] / valid_checks if valid_checks > 0 else 0
+            if valid_checks > 0:
+                success_rate = stats['success_count'] / valid_checks
+                sorted_domains.append((domain, success_rate))
+        
+        sorted_domains.sort(key=lambda x: x[1], reverse=True)
+        
+        for domain, success_rate in sorted_domains[:100]:  # 前100名
+            stats = self.domain_analyzer.domain_stats[domain]
+            valid_checks = stats['total_count'] - stats['timeout_count']
             
             rules_content += f"# 成功率: {success_rate*100:.1f}% "
             rules_content += f"({stats['success_count']}/{valid_checks})\n"
@@ -747,7 +763,9 @@ class StreamChecker:
         
         # 1. 获取远程URL
         remote_urls = self.read_txt_to_array(file_paths["urls"])
+        logger.info(f"从远程URL获取直播源...")
         all_lines = self.fetch_remote_urls(remote_urls)
+        logger.info(f"从远程URL获取到 {len(all_lines)} 个链接")
         
         # 2. 读取本地白名单
         whitelist_lines = self.read_txt_file(file_paths.get("whitelist_manual", ""))
@@ -849,73 +867,4 @@ class StreamChecker:
         except Exception as e:
             logger.error(f"写入文件失败 {file_path}: {e}")
     
-    def print_statistics(self, cleaned_lines: List[str], success_list: List[str], 
-                        failed_list: List[str], timeout_list: List[str]):
-        """打印统计信息"""
-        end_time = datetime.now()
-        elapsed = end_time - self.timestart
-        mins, secs = int(elapsed.total_seconds() // 60), int(elapsed.total_seconds() % 60)
-        
-        total_detected = len(success_list) + len(failed_list)
-        if Config.SKIP_TIMEOUT_URLS:
-            total_detected += len(timeout_list)
-        
-        logger.info("=" * 60)
-        logger.info("最终统计:")
-        logger.info(f"  总耗时: {mins}分{secs}秒")
-        logger.info(f"  清理后链接数: {len(cleaned_lines)}")
-        logger.info(f"  检测链接数: {total_detected}")
-        logger.info(f"  成功链接数: {len(success_list)}")
-        logger.info(f"  失败链接数: {len(failed_list)}")
-        logger.info(f"  超时链接数: {len(timeout_list)}")
-        
-        if total_detected > 0:
-            success_rate = len(success_list) / total_detected * 100
-            logger.info(f"  整体成功率: {success_rate:.1f}%")
-            
-            if timeout_list:
-                timeout_rate = len(timeout_list) / total_detected * 100
-                logger.info(f"  超时率: {timeout_rate:.1f}%")
-        
-        # 显示最快的5个和最慢的5个链接
-        if success_list:
-            sorted_success = sorted(success_list, 
-                                  key=lambda x: float(x.split(',')[0].replace('ms', '')))
-            
-            logger.info(f"  最快5个链接:")
-            for i, link in enumerate(sorted_success[:5]):
-                parts = link.split(',', 1)
-                time_str = parts[0]
-                name = parts[1].split(',')[0] if ',' in parts[1] else "Unknown"
-                logger.info(f"    {i+1}. {time_str} - {name[:30]}")
-            
-            logger.info(f"  最慢5个链接:")
-            for i, link in enumerate(sorted_success[-5:][::-1]):
-                parts = link.split(',', 1)
-                time_str = parts[0]
-                name = parts[1].split(',')[0] if ',' in parts[1] else "Unknown"
-                logger.info(f"    {i+1}. {time_str} - {name[:30]}")
-        
-        logger.info("=" * 60)
-
-
-def main():
-    """主函数"""
-    logger.info("开始直播源检测和域名质量分析...")
-    logger.info(f"配置: 超时={Config.TIMEOUT_CHECK}s, 线程={Config.MAX_WORKERS}, 重试={Config.MAX_RETRIES}")
-    logger.info(f"超时处理: {'跳过' if Config.SKIP_TIMEOUT_URLS else '算作失败'}")
-    
-    checker = StreamChecker()
-    
-    try:
-        checker.run()
-    except KeyboardInterrupt:
-        logger.info("检测被用户中断")
-    except Exception as e:
-        logger.error(f"检测过程发生错误: {e}", exc_info=True)
-    finally:
-        logger.info("检测结束")
-
-
-if __name__ == "__main__":
-    main()
+    def print_statistics(self, cleaned_lines: List[str], success_list
