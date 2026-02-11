@@ -40,7 +40,7 @@ class Config:
     MAX_WORKERS = 30
     
     # 重试配置
-    MAX_RETRIES = 1             # 重试次数（0表示不重试）
+    MAX_RETRIES = 0             # 重试次数（0表示不重试）
     RETRY_DELAY = 1             # 重试等待（秒）
     
     # 域名评估配置
