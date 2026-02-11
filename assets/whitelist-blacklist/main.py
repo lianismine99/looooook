@@ -9,9 +9,11 @@ import subprocess
 import json
 import ssl
 import re
-from typing import List, Tuple, Optional, Dict, Any
+from typing import List, Tuple, Optional, Dict, Any, Set
 import logging
 import hashlib
+from collections import defaultdict
+import statistics
 
 # 配置日志
 logging.basicConfig(
@@ -31,30 +33,173 @@ class Config:
     USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     
     # 超时配置
+    # 远程URL内容超时
     TIMEOUT_FETCH = 10
+    # 每个直播源超时
     TIMEOUT_CHECK = 8
+    # 只控制建立连接的时间，不包括数据传输超时
     TIMEOUT_CONNECT = 5
     
     # 线程配置
     MAX_WORKERS = 30
     
     # 重试配置
-    MAX_RETRIES = 2
+    # 重试次数
+    MAX_RETRIES = 0
+    # 重试等待（秒）
     RETRY_DELAY = 1
     
-    # 统计配置
-    MIN_SUCCESS_RATE = 0.3  # 最低成功率，低于此值的主机会被加入黑名单
+    # 域名评估配置
+    MIN_SUCCESS_RATE = 0.8      # 最低成功率（优秀域名）
+    MIN_SAMPLES = 3             # 最少样本数
+    MAX_RESPONSE_TIME = 2000    # 最大响应时间(ms)
     
     # 缓存配置
     CACHE_EXPIRE_HOURS = 24
 
+class DomainAnalyzer:
+    """域名分析器"""
+    def __init__(self):
+        self.domain_stats: Dict[str, Dict] = defaultdict(lambda: {
+            'success_count': 0,
+            'total_count': 0,
+            'response_times': [],
+            'urls': set(),
+            'last_check': None
+        })
+        self.excellent_domains: Set[str] = set()
+        self.good_domains: Set[str] = set()
+        self.poor_domains: Set[str] = set()
+    
+    def record_domain_result(self, domain: str, url: str, success: bool, response_time: Optional[float]):
+        """记录域名检测结果"""
+        if not domain:
+            return
+            
+        stats = self.domain_stats[domain]
+        stats['total_count'] += 1
+        stats['urls'].add(url)
+        
+        if success:
+            stats['success_count'] += 1
+            if response_time:
+                stats['response_times'].append(response_time)
+        
+        stats['last_check'] = datetime.now().isoformat()
+    
+    def calculate_domain_score(self, domain: str) -> Tuple[float, Dict[str, Any]]:
+        """计算域名质量分数"""
+        stats = self.domain_stats[domain]
+        
+        if stats['total_count'] < Config.MIN_SAMPLES:
+            return 0.0, {'reason': '样本不足'}
+        
+        # 计算成功率
+        success_rate = stats['success_count'] / stats['total_count']
+        
+        # 计算平均响应时间
+        avg_response = 0
+        if stats['response_times']:
+            avg_response = statistics.mean(stats['response_times'])
+        
+        # 计算稳定性（响应时间标准差）
+        stability = 1.0
+        if len(stats['response_times']) > 1:
+            std_dev = statistics.stdev(stats['response_times'])
+            # 标准差越小越好，归一化到0-1
+            stability = max(0, 1 - (std_dev / 1000))
+        
+        # 计算覆盖率（URL数量）
+        url_coverage = min(1.0, len(stats['urls']) / 20)  # 最多20个URL得满分
+        
+        # 综合评分
+        score = (
+            success_rate * 0.5 +          # 成功率权重50%
+            (1 - min(1, avg_response / Config.MAX_RESPONSE_TIME)) * 0.3 +  # 速度权重30%
+            stability * 0.1 +             # 稳定性权重10%
+            url_coverage * 0.1            # 覆盖率权重10%
+        )
+        
+        metrics = {
+            'success_rate': success_rate,
+            'avg_response': avg_response,
+            'stability': stability,
+            'url_count': len(stats['urls']),
+            'total_checks': stats['total_count']
+        }
+        
+        return score, metrics
+    
+    def classify_domains(self):
+        """分类域名质量"""
+        self.excellent_domains.clear()
+        self.good_domains.clear()
+        self.poor_domains.clear()
+        
+        for domain in self.domain_stats.keys():
+            score, metrics = self.calculate_domain_score(domain)
+            
+            if score >= 0.8:
+                self.excellent_domains.add(domain)
+            elif score >= 0.6:
+                self.good_domains.add(domain)
+            else:
+                self.poor_domains.add(domain)
+    
+    def get_excellent_domains_report(self) -> List[Dict[str, Any]]:
+        """获取优秀域名报告"""
+        report = []
+        for domain in self.excellent_domains:
+            score, metrics = self.calculate_domain_score(domain)
+            report.append({
+                'domain': domain,
+                'score': round(score, 3),
+                'success_rate': round(metrics['success_rate'] * 100, 1),
+                'avg_response': round(metrics['avg_response'], 1),
+                'url_count': metrics['url_count'],
+                'total_checks': metrics['total_checks']
+            })
+        
+        # 按分数排序
+        report.sort(key=lambda x: x['score'], reverse=True)
+        return report
+    
+    def save_domain_analysis(self, filepath: str):
+        """保存域名分析结果"""
+        analysis_data = {
+            'timestamp': datetime.now().isoformat(),
+            'excellent_domains': list(self.excellent_domains),
+            'good_domains': list(self.good_domains),
+            'poor_domains': list(self.poor_domains),
+            'detailed_stats': {
+                domain: {
+                    'success_count': stats['success_count'],
+                    'total_count': stats['total_count'],
+                    'success_rate': round(stats['success_count'] / stats['total_count'] * 100, 1),
+                    'avg_response': round(statistics.mean(stats['response_times']), 2) if stats['response_times'] else 0,
+                    'url_count': len(stats['urls']),
+                    'sample_urls': list(stats['urls'])[:3]  # 只保存前3个示例URL
+                }
+                for domain, stats in self.domain_stats.items()
+                if stats['total_count'] >= Config.MIN_SAMPLES
+            }
+        }
+        
+        try:
+            os.makedirs(os.path.dirname(filepath), exist_ok=True)
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(analysis_data, f, ensure_ascii=False, indent=2)
+            logger.info(f"域名分析结果已保存到: {filepath}")
+        except Exception as e:
+            logger.error(f"保存域名分析结果失败: {e}")
+
 class StreamChecker:
     def __init__(self):
         self.timestart = datetime.now()
-        self.blacklist_dict: Dict[str, int] = {}
         self.url_statistics: List[str] = []
         self.success_cache: Dict[str, Tuple[float, datetime]] = {}
         self.failed_cache: Dict[str, datetime] = {}
+        self.domain_analyzer = DomainAnalyzer()
         self.cache_file = "check_cache.json"
         self.load_cache()
         
@@ -97,6 +242,28 @@ class StreamChecker:
         """生成URL的哈希值用于缓存键"""
         return hashlib.md5(url.encode('utf-8')).hexdigest()
     
+    def get_domain_from_url(self, url: str) -> str:
+        """从URL提取域名"""
+        try:
+            parsed = urlparse(url)
+            host = parsed.netloc
+            
+            # 处理端口号
+            if ':' in host:
+                # IPv6地址处理
+                if host.startswith('[') and ']' in host:
+                    # IPv6地址格式 [::1]:8080
+                    ipv6_end = host.find(']')
+                    if ipv6_end != -1 and ':' in host[ipv6_end:]:
+                        host = host[:ipv6_end + 1]
+                else:
+                    # IPv4地址或域名
+                    host = host.split(':')[0]
+            
+            return host.lower()
+        except:
+            return ""
+    
     def read_txt_to_array(self, file_name: str) -> List[str]:
         """读取文本文件到数组"""
         try:
@@ -108,77 +275,27 @@ class StreamChecker:
     
     def read_txt_file(self, file_path: str) -> List[str]:
         """读取直播源文件，过滤无效行"""
-        skip_patterns = [r'#genre#', r'#EXTINF:-1', r'"ext"']
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
                 lines = []
                 for line in file:
                     line = line.strip()
-                    if not line:
-                        continue
-                    
-                    # 跳过包含特定模式的行
-                    if any(re.search(pattern, line) for pattern in skip_patterns):
-                        continue
-                    
-                    # 必须包含协议和分隔符
-                    if '://' in line and ',' in line:
+                    if line and '://' in line and ',' in line and '#genre#' not in line:
                         lines.append(line)
                 return lines
         except Exception as e:
             logger.error(f"读取文件失败 {file_path}: {e}")
             return []
     
-    def get_host_from_url(self, url: str) -> str:
-        """从URL中提取主机名"""
-        try:
-            parsed = urlparse(url)
-            host = parsed.netloc
-            
-            # 处理IPv6地址
-            if host.startswith('[') and host.endswith(']'):
-                host = host[1:-1]
-            
-            # 移除端口号（如果不是IPv6）
-            if ':' in host and not host.count(':') > 1:
-                host = host.split(':')[0]
-            
-            return host
-        except Exception:
-            return ""
-    
-    def is_ip_address(self, host: str) -> Tuple[bool, Optional[str]]:
-        """判断是否为IP地址并返回类型"""
-        try:
-            # 尝试解析为IPv4
-            socket.inet_pton(socket.AF_INET, host)
-            return True, "IPv4"
-        except socket.error:
-            try:
-                # 尝试解析为IPv6
-                socket.inet_pton(socket.AF_INET6, host)
-                return True, "IPv6"
-            except socket.error:
-                return False, None
-    
-    def record_host_failure(self, host: str):
-        """记录主机失败次数"""
-        if host:
-            self.blacklist_dict[host] = self.blacklist_dict.get(host, 0) + 1
-            
-            # 如果失败次数过多，记录警告
-            if self.blacklist_dict[host] >= 5:
-                logger.warning(f"主机 {host} 失败次数过多: {self.blacklist_dict[host]}")
-    
     def create_ssl_context(self):
-        """创建SSL上下文，支持更多协议"""
+        """创建SSL上下文"""
         context = ssl.create_default_context()
         context.check_hostname = False
         context.verify_mode = ssl.CERT_NONE
         context.set_ciphers('DEFAULT:@SECLEVEL=1')
         return context
     
-    def check_http_url_with_retry(self, url: str, timeout: int, ip_version: Optional[int] = None) -> Optional[bool]:
+    def check_http_url_with_retry(self, url: str, timeout: int) -> Optional[bool]:
         """带重试的HTTP/HTTPS检测"""
         for retry in range(Config.MAX_RETRIES):
             try:
@@ -192,40 +309,15 @@ class StreamChecker:
                     }
                 )
                 
-                # 设置超时
-                socket.setdefaulttimeout(timeout)
-                
-                # 创建opener
                 opener = urllib.request.build_opener(
                     urllib.request.HTTPSHandler(context=self.create_ssl_context())
                 )
                 
-                with opener.open(req) as resp:
-                    status = resp.status
-                    content_type = resp.headers.get('Content-Type', '')
-                    
-                    # 检查状态码
-                    if 200 <= status < 300:
-                        # 对于流媒体，检查内容类型
-                        if any(x in content_type.lower() for x in ['video', 'audio', 'application/octet-stream']):
-                            return True
-                        # 尝试读取少量数据检查是否是流
-                        try:
-                            data = resp.read(1024)
-                            if data:
-                                return True
-                        except:
-                            pass
+                with opener.open(req, timeout=timeout) as resp:
+                    if 200 <= resp.status < 300:
+                        # 尝试读取少量数据验证
+                        resp.read(512)
                         return True
-                    elif status in [301, 302, 307, 308]:
-                        # 处理重定向
-                        redirect_url = resp.headers.get('Location')
-                        if redirect_url:
-                            if not redirect_url.startswith(('http://', 'https://')):
-                                parsed = urlparse(url)
-                                redirect_url = f"{parsed.scheme}://{parsed.netloc}{redirect_url}"
-                            if retry < Config.MAX_RETRIES - 1:
-                                return self.check_http_url_with_retry(redirect_url, timeout, ip_version)
                     return False
                     
             except urllib.error.HTTPError as e:
@@ -233,13 +325,12 @@ class StreamChecker:
                     return False
                 if retry == Config.MAX_RETRIES - 1:
                     return None
-            except (socket.timeout, urllib.error.URLError, ConnectionResetError, ssl.SSLError) as e:
+            except (socket.timeout, urllib.error.URLError):
                 if retry == Config.MAX_RETRIES - 1:
                     return None
                 time.sleep(Config.RETRY_DELAY)
-            except Exception as e:
+            except Exception:
                 if retry == Config.MAX_RETRIES - 1:
-                    logger.debug(f"HTTP检测异常 {url}: {str(e)[:100]}")
                     return None
                 time.sleep(Config.RETRY_DELAY)
         
@@ -249,139 +340,28 @@ class StreamChecker:
         """检测RTMP/RTSP链接"""
         for retry in range(Config.MAX_RETRIES):
             try:
-                # 检查ffmpeg是否可用
-                try:
-                    subprocess.run(['ffprobe', '-version'], 
-                                 stdout=subprocess.DEVNULL, 
-                                 stderr=subprocess.DEVNULL, 
-                                 timeout=2)
-                except (FileNotFoundError, subprocess.TimeoutExpired):
-                    logger.warning("ffprobe不可用，使用简化RTMP检测")
-                    # 简化检测：尝试TCP连接
-                    parsed = urlparse(url)
-                    host, port = parsed.hostname, parsed.port or (1935 if url.startswith('rtmp') else 554)
-                    
-                    with socket.create_connection((host, port), timeout=Config.TIMEOUT_CONNECT) as sock:
-                        return True
+                # 简化检测：尝试TCP连接
+                parsed = urlparse(url)
+                host, port = parsed.hostname, parsed.port or (1935 if url.startswith('rtmp') else 554)
                 
-                # 使用ffprobe进行详细检测
-                cmd = ['ffprobe', '-v', 'quiet', '-timeout', f'{int(timeout * 1000000)}',
-                       '-select_streams', 'v:0', '-show_entries', 'stream=codec_name',
-                       '-of', 'json', url]
+                if not host:
+                    return False
                 
-                result = subprocess.run(cmd, capture_output=True, timeout=timeout + 2)
+                # 创建socket连接
+                sock = socket.create_connection((host, port), timeout=Config.TIMEOUT_CONNECT)
+                sock.close()
+                return True
                 
-                if result.returncode == 0:
-                    try:
-                        data = json.loads(result.stdout)
-                        if 'streams' in data and len(data['streams']) > 0:
-                            return True
-                    except json.JSONDecodeError:
-                        # 只要能连接成功就认为是有效的
-                        return True
-                return False
-                
-            except subprocess.TimeoutExpired:
+            except (socket.timeout, ConnectionRefusedError):
                 if retry == Config.MAX_RETRIES - 1:
                     return None
                 time.sleep(Config.RETRY_DELAY)
-            except Exception as e:
+            except Exception:
                 if retry == Config.MAX_RETRIES - 1:
-                    logger.debug(f"RTMP/RTSP检测异常 {url}: {str(e)[:100]}")
                     return None
                 time.sleep(Config.RETRY_DELAY)
         
         return None
-    
-    def check_rtp_url(self, url: str, timeout: int) -> Optional[bool]:
-        """检测RTP链接"""
-        try:
-            parsed = urlparse(url)
-            host, port = parsed.hostname, parsed.port or 5004
-            
-            if not host or not port:
-                return False
-            
-            # 创建socket
-            is_ip, ip_type = self.is_ip_address(host)
-            
-            if is_ip and ip_type == "IPv6":
-                sock = socket.socket(socket.AF_INET6, socket.SOCK_DGRAM)
-            else:
-                sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            
-            sock.settimeout(Config.TIMEOUT_CONNECT)
-            
-            # 尝试发送简单数据包
-            try:
-                sock.connect((host, port))
-                # 发送空的RTP头（版本2，无负载类型）
-                rtp_header = bytes([0x80, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00])
-                sock.send(rtp_header)
-                
-                # 尝试接收响应（某些RTP服务器会响应）
-                try:
-                    data = sock.recv(1024)
-                    if data:
-                        return True
-                except socket.timeout:
-                    # 没有响应也可能是正常的
-                    pass
-                
-                return True
-            finally:
-                sock.close()
-                
-        except socket.timeout:
-            return None
-        except Exception as e:
-            logger.debug(f"RTP检测异常 {url}: {str(e)[:100]}")
-            return False
-    
-    def check_special_protocol(self, url: str, timeout: int) -> Optional[bool]:
-        """检测特殊协议链接"""
-        try:
-            parsed = urlparse(url)
-            host, port = parsed.hostname, parsed.port or 80
-            
-            if not host or not port:
-                return False
-            
-            # 根据协议选择端口
-            if url.startswith("p2p"):
-                port = port or 8000
-            elif url.startswith("p3p"):
-                port = port or 8080
-            
-            # 创建socket连接
-            is_ip, ip_type = self.is_ip_address(host)
-            
-            if is_ip and ip_type == "IPv6":
-                sock = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
-            else:
-                sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            
-            sock.settimeout(Config.TIMEOUT_CONNECT)
-            sock.connect((host, port))
-            
-            # 发送协议特定的握手信息
-            if url.startswith("p3p"):
-                request = f"GET / HTTP/1.1\r\nHost: {host}\r\nUser-Agent: {Config.USER_AGENT}\r\nConnection: close\r\n\r\n"
-                sock.send(request.encode())
-                
-                # 接收响应
-                response = sock.recv(1024)
-                if response:
-                    return True
-            
-            sock.close()
-            return True
-            
-        except socket.timeout:
-            return None
-        except Exception as e:
-            logger.debug(f"特殊协议检测异常 {url}: {str(e)[:100]}")
-            return False
     
     def check_url(self, url: str) -> Tuple[Optional[float], bool]:
         """主检测函数"""
@@ -390,60 +370,60 @@ class StreamChecker:
         # 检查缓存
         if url_hash in self.success_cache:
             elapsed, cache_time = self.success_cache[url_hash]
-            if (datetime.now() - cache_time).total_seconds() < 3600:  # 1小时内缓存有效
+            if (datetime.now() - cache_time).total_seconds() < 3600:
                 return elapsed, True
         
         if url_hash in self.failed_cache:
             cache_time = self.failed_cache[url_hash]
-            if (datetime.now() - cache_time).total_seconds() < 1800:  # 30分钟内缓存有效
+            if (datetime.now() - cache_time).total_seconds() < 1800:
                 return None, False
         
         start_time = time.time()
         result = None
-        elapsed = None
         
         try:
-            # 统一URL编码
             encoded_url = quote(unquote(url), safe=':/?&=#')
             
-            # 根据协议类型选择检测方法
             if url.startswith(("http://", "https://")):
                 result = self.check_http_url_with_retry(encoded_url, Config.TIMEOUT_CHECK)
             elif url.startswith(("rtmp://", "rtsp://")):
                 result = self.check_rtmp_rtsp_url(encoded_url, Config.TIMEOUT_CHECK)
-            elif url.startswith("rtp://"):
-                result = self.check_rtp_url(encoded_url, Config.TIMEOUT_CHECK)
-            elif url.startswith(("p2p://", "p3p://")):
-                result = self.check_special_protocol(encoded_url, Config.TIMEOUT_CHECK)
             else:
-                # 未知协议，尝试通用TCP检测
-                result = self.check_special_protocol(encoded_url, Config.TIMEOUT_CHECK)
-            
-            elapsed = (time.time() - start_time) * 1000
-            
-            # 处理结果
-            if result is True:
-                self.success_cache[url_hash] = (elapsed, datetime.now())
-                return elapsed, True
-            elif result is False:
-                self.failed_cache[url_hash] = datetime.now()
-                host = self.get_host_from_url(url)
-                self.record_host_failure(host)
-                return None, False
-            else:
-                # 超时或未知，暂时标记为有效但记录
-                logger.debug(f"链接检测超时或未知: {url}")
-                return elapsed, True
-                
-        except Exception as e:
-            logger.error(f"检测链接异常 {url}: {e}")
+                # 其他协议尝试TCP连接
+                parsed = urlparse(url)
+                host, port = parsed.hostname, parsed.port or 80
+                if host:
+                    socket.create_connection((host, port), timeout=Config.TIMEOUT_CONNECT)
+                    result = True
+        
+        except Exception:
+            result = False
+        
+        elapsed = (time.time() - start_time) * 1000 if result else None
+        
+        # 更新缓存
+        if result is True:
+            self.success_cache[url_hash] = (elapsed, datetime.now())
+        elif result is False:
+            self.failed_cache[url_hash] = datetime.now()
+        
+        # 记录域名统计
+        domain = self.get_domain_from_url(url)
+        if domain:
+            self.domain_analyzer.record_domain_result(domain, url, result is True, elapsed)
+        
+        if result is True:
+            return elapsed, True
+        elif result is False:
             return None, False
+        else:
+            return elapsed, True  # 超时未知暂时算成功
     
     def process_m3u_content(self, text: str, source_url: str) -> List[str]:
         """处理M3U格式内容"""
         lines = []
         try:
-            if "#EXTM3U" not in text[:100]:
+            if "#EXTM3U" not in text:
                 return lines
             
             current_name = ""
@@ -453,19 +433,15 @@ class StreamChecker:
                     continue
                 
                 if line.startswith("#EXTINF"):
-                    # 提取频道名称
                     match = re.search(r',(.+)$', line)
                     if match:
                         current_name = match.group(1).strip()
-                elif line.startswith(('http://', 'https://', 'rtmp://', 'rtsp://', 
-                                    'rtp://', 'p2p://', 'p3p://')):
+                elif line.startswith(('http://', 'https://', 'rtmp://', 'rtsp://')):
                     if current_name:
                         lines.append(f"{current_name},{line}")
-                        current_name = ""
                     else:
                         lines.append(f"Unknown,{line}")
             
-            logger.info(f"从 {source_url} 解析出 {len(lines)} 个M3U链接")
             return lines
             
         except Exception as e:
@@ -478,20 +454,17 @@ class StreamChecker:
         
         for url in urls:
             try:
-                logger.info(f"获取远程URL: {url}")
-                encoded_url = quote(unquote(url), safe=':/?&=#')
                 req = urllib.request.Request(
-                    encoded_url,
+                    url,
                     headers={"User-Agent": Config.USER_AGENT_URL}
                 )
                 
                 with urllib.request.urlopen(req, timeout=Config.TIMEOUT_FETCH) as resp:
                     content = resp.read().decode('utf-8', errors='replace')
                     
-                    if "#EXTM3U" in content[:100]:
+                    if "#EXTM3U" in content:
                         lines = self.process_m3u_content(content, url)
                     else:
-                        # 处理普通文本格式
                         lines = []
                         for line in content.split('\n'):
                             line = line.strip()
@@ -501,7 +474,6 @@ class StreamChecker:
                     count = len(lines)
                     self.url_statistics.append(f"{count},{url}")
                     all_lines.extend(lines)
-                    logger.info(f"从 {url} 获取到 {count} 个链接")
                     
             except Exception as e:
                 logger.error(f"获取远程URL失败 {url}: {e}")
@@ -510,7 +482,6 @@ class StreamChecker:
     
     def clean_and_deduplicate(self, lines: List[str]) -> List[str]:
         """清理和去重链接"""
-        # 分割多个链接
         new_lines = []
         for line in lines:
             if ',' not in line or '://' not in line:
@@ -519,24 +490,19 @@ class StreamChecker:
             name, urls = line.split(',', 1)
             name = name.strip()
             
-            # 分割多个URL（用#分隔）
             for url_part in urls.split('#'):
                 url_part = url_part.strip()
                 if '://' in url_part:
+                    # 移除$符号及其后的内容
+                    if '$' in url_part:
+                        url_part = url_part[:url_part.rfind('$')]
                     new_lines.append(f"{name},{url_part}")
         
-        # 移除$符号及其后的内容
-        cleaned_lines = []
-        for line in new_lines:
-            if '$' in line:
-                line = line[:line.rfind('$')]
-            cleaned_lines.append(line)
-        
-        # 去重（基于URL）
+        # 去重
         unique_lines = []
         seen_urls = set()
         
-        for line in cleaned_lines:
+        for line in new_lines:
             if ',' in line:
                 _, url = line.split(',', 1)
                 url = url.strip()
@@ -544,7 +510,6 @@ class StreamChecker:
                     seen_urls.add(url)
                     unique_lines.append(line)
         
-        logger.info(f"清理后链接数: {len(unique_lines)} (原: {len(lines)})")
         return unique_lines
     
     def process_batch_urls(self, lines: List[str], whitelist: set) -> Tuple[List[str], List[str]]:
@@ -559,7 +524,6 @@ class StreamChecker:
         logger.info(f"开始检测 {total} 个链接")
         
         with ThreadPoolExecutor(max_workers=Config.MAX_WORKERS) as executor:
-            # 准备任务
             futures = {}
             for idx, line in enumerate(lines):
                 if ',' in line:
@@ -567,10 +531,8 @@ class StreamChecker:
                     url = url.strip()
                     futures[executor.submit(self.check_url, url)] = (idx, line, url)
             
-            # 处理结果
             processed = 0
             success_count = 0
-            failed_count = 0
             
             for future in as_completed(futures):
                 idx, line, url = futures[future]
@@ -579,11 +541,7 @@ class StreamChecker:
                 try:
                     elapsed, is_valid = future.result()
                     
-                    # 白名单强制通过
-                    if url in whitelist:
-                        success_list.append(f"0.00ms,{line}")
-                        success_count += 1
-                    elif is_valid:
+                    if url in whitelist or is_valid:
                         if elapsed is not None:
                             success_list.append(f"{elapsed:.2f}ms,{line}")
                         else:
@@ -591,31 +549,117 @@ class StreamChecker:
                         success_count += 1
                     else:
                         failed_list.append(line)
-                        failed_count += 1
                     
-                    # 进度显示
                     if processed % 50 == 0 or processed == total:
-                        logger.info(f"进度: {processed}/{total} | 成功: {success_count} | 失败: {failed_count}")
+                        logger.info(f"进度: {processed}/{total} | 成功: {success_count}")
                         
                 except Exception as e:
                     logger.error(f"处理链接失败 {line}: {e}")
                     failed_list.append(line)
-                    failed_count += 1
         
-        # 按响应时间排序
         success_list.sort(key=lambda x: float(x.split(',')[0].replace('ms', '')))
         
-        logger.info(f"检测完成 - 成功: {success_count}, 失败: {failed_count}")
+        logger.info(f"检测完成 - 成功: {len(success_list)}, 失败: {len(failed_list)}")
         return success_list, failed_list
     
-    def analyze_blacklist(self):
-        """分析黑名单数据"""
-        if not self.blacklist_dict:
+    def print_excellent_domains_report(self):
+        """打印优秀域名报告"""
+        # 分类域名
+        self.domain_analyzer.classify_domains()
+        
+        # 获取优秀域名报告
+        excellent_report = self.domain_analyzer.get_excellent_domains_report()
+        
+        if not excellent_report:
+            logger.info("未找到优秀的域名")
             return
         
-        logger.info("黑名单分析:")
-        for host, count in sorted(self.blacklist_dict.items(), key=lambda x: x[1], reverse=True)[:10]:
-            logger.info(f"  {host}: {count} 次失败")
+        logger.info("=" * 80)
+        logger.info("优秀域名排行榜 (基于成功率、速度和稳定性)")
+        logger.info("=" * 80)
+        logger.info(f"{'排名':<4} {'域名':<40} {'综合评分':<8} {'成功率':<8} {'平均响应':<10} {'URL数量':<8}")
+        logger.info("-" * 80)
+        
+        for idx, domain_info in enumerate(excellent_report[:20], 1):  # 显示前20名
+            logger.info(
+                f"{idx:<4} {domain_info['domain'][:38]:<40} "
+                f"{domain_info['score']:<8.3f} "
+                f"{domain_info['success_rate']:<7.1f}% "
+                f"{domain_info['avg_response']:<9.1f}ms "
+                f"{domain_info['url_count']:<8}"
+            )
+        
+        logger.info("=" * 80)
+        
+        # 详细统计
+        total_domains = len(self.domain_analyzer.domain_stats)
+        excellent_count = len(self.domain_analyzer.excellent_domains)
+        good_count = len(self.domain_analyzer.good_domains)
+        
+        logger.info("域名质量统计:")
+        logger.info(f"  总域名数: {total_domains}")
+        logger.info(f"  优秀域名: {excellent_count} ({excellent_count/total_domains*100:.1f}%)")
+        logger.info(f"  良好域名: {good_count} ({good_count/total_domains*100:.1f}%)")
+        logger.info(f"  较差域名: {total_domains - excellent_count - good_count} ({(total_domains - excellent_count - good_count)/total_domains*100:.1f}%)")
+        
+        # 保存域名分析结果
+        self.domain_analyzer.save_domain_analysis("domain_analysis.json")
+        
+        # 生成优秀域名配置文件
+        self.generate_excellent_domains_config()
+    
+    def generate_excellent_domains_config(self):
+        """生成优秀域名配置文件"""
+        excellent_domains = self.domain_analyzer.excellent_domains
+        
+        if not excellent_domains:
+            return
+        
+        # 1. 生成优秀域名列表
+        domains_list = sorted(excellent_domains)
+        domains_content = "# 优秀域名列表 (自动生成)\n# 更新时间: {}\n\n".format(
+            datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        )
+        
+        for domain in domains_list:
+            stats = self.domain_analyzer.domain_stats[domain]
+            success_rate = stats['success_count'] / stats['total_count'] * 100
+            domains_content += f"# {success_rate:.1f}% - {len(stats['urls'])}个URL\n{domain}\n"
+        
+        # 2. 生成优秀域名筛选规则（可用于其他工具）
+        rules_content = "# 优秀域名筛选规则\n"
+        rules_content += "# 以下域名在检测中表现优秀，建议优先使用\n\n"
+        
+        for domain in sorted(excellent_domains, 
+                           key=lambda x: self.domain_analyzer.domain_stats[x]['success_count'], 
+                           reverse=True)[:50]:  # 前50名
+            
+            stats = self.domain_analyzer.domain_stats[domain]
+            if stats['response_times']:
+                avg_time = statistics.mean(stats['response_times'])
+            else:
+                avg_time = 0
+            
+            rules_content += (
+                f"# {stats['success_count']}/{stats['total_count']} "
+                f"({stats['success_count']/stats['total_count']*100:.1f}%) "
+                f"- {avg_time:.1f}ms\n"
+                f"*{domain}*\n"
+            )
+        
+        # 保存文件
+        try:
+            with open("excellent_domains.txt", "w", encoding="utf-8") as f:
+                f.write(domains_content)
+            
+            with open("domain_filter_rules.txt", "w", encoding="utf-8") as f:
+                f.write(rules_content)
+            
+            logger.info(f"已生成优秀域名配置文件: excellent_domains.txt ({len(domains_list)}个域名)")
+            logger.info(f"已生成域名筛选规则: domain_filter_rules.txt")
+            
+        except Exception as e:
+            logger.error(f"生成配置文件失败: {e}")
     
     def run(self):
         """主运行函数"""
@@ -644,11 +688,11 @@ class StreamChecker:
         # 4. 批量检测
         success_list, failed_list = self.process_batch_urls(cleaned_lines, whitelist_set)
         
-        # 5. 保存结果
-        self.save_results(success_list, failed_list)
+        # 5. 分析并显示优秀域名
+        self.print_excellent_domains_report()
         
-        # 6. 分析黑名单
-        self.analyze_blacklist()
+        # 6. 保存结果
+        self.save_results(success_list, failed_list)
         
         # 7. 保存缓存
         self.save_cache()
@@ -676,7 +720,7 @@ class StreamChecker:
         bj_time = datetime.now(timezone.utc) + timedelta(hours=8)
         version = f"{bj_time.strftime('%Y%m%d %H:%M')},url"
         
-        # 准备成功列表（带响应时间）
+        # 准备成功列表
         success_output = [
             "更新时间,#genre#",
             version,
@@ -684,7 +728,7 @@ class StreamChecker:
             "RespoTime,whitelist,#genre#"
         ] + success_list
         
-        # 准备成功列表（无响应时间，用于TV）
+        # 准备成功列表（无响应时间）
         success_tv = [",".join(line.split(",")[1:]) for line in success_list]
         success_tv_output = [
             "更新时间,#genre#",
@@ -711,9 +755,8 @@ class StreamChecker:
         """写入列表到文件"""
         try:
             os.makedirs(os.path.dirname(file_path), exist_ok=True)
-            with open(file_path, 'w', encoding='utf-8', newline='\n') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(data_list))
-            logger.info(f"文件已生成: {file_path} ({len(data_list)} 行)")
         except Exception as e:
             logger.error(f"写入文件失败 {file_path}: {e}")
     
@@ -724,28 +767,21 @@ class StreamChecker:
         mins, secs = int(elapsed.total_seconds() // 60), int(elapsed.total_seconds() % 60)
         
         logger.info("=" * 60)
-        logger.info("检测统计:")
+        logger.info("最终统计:")
         logger.info(f"  总耗时: {mins}分{secs}秒")
-        logger.info(f"  原始链接数: {len(self.url_statistics)}")
         logger.info(f"  清理后链接数: {len(cleaned_lines)}")
         logger.info(f"  成功链接数: {len(success_list)}")
         logger.info(f"  失败链接数: {len(failed_list)}")
         
         if cleaned_lines:
             success_rate = len(success_list) / len(cleaned_lines) * 100
-            logger.info(f"  成功率: {success_rate:.1f}%")
+            logger.info(f"  整体成功率: {success_rate:.1f}%")
         
         logger.info("=" * 60)
-        
-        # 输出来源统计
-        if self.url_statistics:
-            logger.info("来源统计:")
-            for stat in self.url_statistics:
-                logger.info(f"  {stat}")
 
 def main():
     """主函数"""
-    logger.info("开始直播源检测...")
+    logger.info("开始直播源检测和域名质量分析...")
     checker = StreamChecker()
     
     try:
