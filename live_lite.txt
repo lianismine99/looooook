@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260222 04:12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260223 04:13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2344,9 +2344,9 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 创世电视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5178
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=359
@@ -2598,12 +2598,14 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 周星驰,http://43.138.170.29:35455/yy/1354658049
 周星驰,http://43.138.170.29:35455/yy/1382736808
 周星驰,http://alist.xicp.fun:35455/yy/1382736808#https://live.metshop.top/yy/1382736808
+周星驰,http://dxa.yiandrive.com:39191/douyu/122402
 李连杰,https://live.iill.top/huya/11342390
 李连杰,http://124.248.69.76:26781/huya/11342390
 李连杰,http://11.xmyxc.cn/api/php/yy.php?id=74613175
 李连杰,http://www.xzbn.site:35455/huya/11342390
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 李连杰,http://43.138.170.29:35455/yy/74613175
+李连杰,http://dxa.yiandrive.com:39191/huya/29076690
 洪金宝,http://74.91.26.218:82/live/vlhjb.m3u8
 洪金宝,http://124.248.69.76:26781/huya/11279251
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-4.ctv
@@ -2661,7 +2663,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 甄子丹,http://live.nctv.top/huya.php?id=11352935
 甄子丹,http://www.xzbn.site:35455/huya/11352935
 甄子丹,http://cdn.jdshipin.com:8880/huya.php?id=11352935
-甄子丹,https://t.freetv.fun/live/zhen-zi-dan-dian-ying-1.php
 电影_英叔,http://124.248.69.76:35455/huya/11342421
 电影_黄渤,http://live.nctv.top/huya.php?id=11352876
 电影_黄渤,http://124.248.69.76:35455/huya/11352876
@@ -2680,8 +2681,10 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_强森,http://124.248.69.76:26781/huya/21059581
 电影_强森,http://cdn.jdshipin.com:8880/huya.php?id=21059581
 电影_强森,http://124.248.69.76:35455/huya/21059581
+电影_强森,http://dxa.yiandrive.com:39191/huya/21059581
 电影_沈腾,http://live.nctv.top/huya.php?id=11601968
 电影_沈腾,http://124.248.69.76:35455/huya/11601968
+电影_沈腾,http://dxa.yiandrive.com:39191/huya/11601968
 电影_李连杰,http://live.nctv.top/huya.php?id=11342390
 电影_李连杰,http://124.248.69.76:35455/huya/11342390
 电影_梁家辉,http://live.nctv.top/huya.php?id=11342429
@@ -2696,6 +2699,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_怪兽,http://cdn.jdshipin.com:8880/huya.php?id=21059577
 电影_怪兽,http://124.248.69.76:35455/huya/21059577
 电影_怪兽,http://www.xzbn.site:35455/huya/21059577
+电影_怪兽,http://dxa.yiandrive.com:39191/huya/21059577
 电影_喜乐影院,http://live.nctv.top/huya.php?id=21059580
 电影_喜乐影院,https://live.iill.top/huya/21059580
 电影_喜乐影院,http://cdn.jdshipin.com:8880/huya.php?id=21059580
@@ -2729,6 +2733,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_高能反转,http://www.xzbn.site:35455/huya/11352887
 电影_罪犯,http://live.nctv.top/huya.php?id=11352962
 电影_罪犯,http://www.xzbn.site:35455/huya/11352962
+电影_罪犯,http://dxa.yiandrive.com:39191/huya/11352962
 电影_盗墓,http://live.nctv.top/huya.php?id=21059552
 电影_盗墓,https://live.iill.top/huya/21059552
 电影_盗墓,http://124.248.69.76:26781/huya/21059552
@@ -2805,6 +2810,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_死神来了,http://www.xzbn.site:35455/huya/11352903
 电影_推荐,http://live.nctv.top/huya.php?id=11602041
 电影_推荐,http://www.xzbn.site:35455/huya/11602041
+电影_推荐,http://dxa.yiandrive.com:39191/huya/11602041
 电影_蜘蛛侠,http://124.248.69.76:35455/huya/21059599
 电影_蜘蛛侠,http://live.nctv.top/huya.php?id=21059599
 电影_蜘蛛侠,http://www.xzbn.site:35455/huya/21059599
@@ -2873,7 +2879,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 万合出品,https://www.goodiptv.club/douyu/9220456
 万合出品,http://iptv.jxpan.vip:18888/aio/douyu/9220456
-万合出品,https://goodiptv.club/douyu/9220456
 吃米滴虫,http://zzy789.xyz/douyu1.php?id=315457
 吃米滴虫,http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
@@ -3311,6 +3316,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382735541
 情满四合院,http://43.138.170.29:35455/yy/1382736888
 情满四合院,http://11.xmyxc.cn/api/php/yy.php?id=1382735541
+情满四合院,http://dxa.yiandrive.com:39191/huya/11342426
 康熙王朝,http://www.douzhicloud.site:35455/huya/11352940
 康熙王朝,http://1.94.31.214:35455/huya/11352940
 康熙王朝,http://11.xmyxc.cn/api/php/yy.php?id=1382851583
@@ -3377,12 +3383,10 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 综艺频道,#genre#
 宋小宝小品,https://www.goodiptv.club/douyu/9817729
 宋小宝小品,http://iptv.jxpan.vip:18888/aio/douyu/9817729
-宋小宝小品,https://goodiptv.club/douyu/9817729
 巩汉林小品,http://jiaojirentv.top/2020/yy.php?id=1354889035
 开心麻花小品,https://www.goodiptv.club/douyu/10153463
 开心麻花小品,http://zzy789.xyz/douyu1.php?id=10153463
 开心麻花小品,http://iptv.jxpan.vip:18888/aio/douyu/10153463
-开心麻花小品,https://goodiptv.club/douyu/10153463
 易中天品三国,http://alist.xicp.fun:35455/yy/1354931498
 热门综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288011/index.m3u8?channel-id=bestzb&Contentid=5000000011000288011&livemode=1&stbId=YanG-1989
 热门综艺,http://dl.wifi942.com:66/jsyd/jsyd.php?id=GITV-JS-16
@@ -3405,17 +3409,14 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 许君聪小品,https://www.goodiptv.club/douyu/10419558
 许君聪小品,http://zzy789.xyz/douyu1.php?id=10419558
 许君聪小品,http://iptv.jxpan.vip:18888/aio/douyu/10419558
-许君聪小品,https://goodiptv.club/douyu/10419558
 贾玲小品,https://www.goodiptv.club/douyu/10419541
 贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
 贾玲小品,http://iptv.jxpan.vip:18888/aio/douyu/10419541
-贾玲小品,https://goodiptv.club/douyu/10419541
 赵本山小品,https://live.ottiptv.cc/douyu/9817716
 赵本山小品,https://www.goodiptv.club/douyu/9817716
 赵本山小品,http://jiaojirentv.top/2020/yy.php?id=1354936217
 赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 赵本山小品,http://iptv.jxpan.vip:18888/aio/douyu/9817716
-赵本山小品,https://goodiptv.club/douyu/9817716
 
 
 NewTV,#genre#
@@ -4114,8 +4115,10 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 音乐频道,#genre#
 治愈•放松「音乐」,https://live.iill.top/huya/21241811
 治愈•放松「音乐」,http://dns.yiandrive.com:15907/huya/21241811
+治愈•放松「音乐」,http://dxa.yiandrive.com:39191/huya/21241811
 阅读•学习「音乐」,https://live.iill.top/huya/21241813
 阅读•学习「音乐」,http://dns.yiandrive.com:15907/huya/21241813
+阅读•学习「音乐」,http://dxa.yiandrive.com:39191/huya/21241813
 音乐石榴「音乐」,https://live.iill.top/huya/17091681
 音乐石榴「音乐」,http://dns.yiandrive.com:15907/huya/17091681
 音乐石榴「音乐」,http://dxa.yiandrive.com:39191/huya/17091681
@@ -4408,3 +4411,4 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 解说_默爷侃电影,https://live.metshop.top/huya/17204307
 阿斗归来了,https://www.goodiptv.club/huya/13303478
 阿斗归来了,http://iptv.jxpan.vip:18888/aio/huya/13303478
+阿斗归来了,http://dxa.yiandrive.com:39191/huya/13303478
