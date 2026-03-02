@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260302 04:15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260303 04:22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2340,8 +2340,8 @@ Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 创世电视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5178
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -2600,7 +2600,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 李连杰,http://www.xzbn.site:35455/huya/11342390
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 李连杰,http://43.138.170.29:35455/yy/74613175
-李连杰,https://live.iill.top/huya/30987504
 李连杰,https://live.iill.top/huya/29076690
 洪金宝,http://74.91.26.218:82/live/vlhjb.m3u8
 洪金宝,http://124.248.69.76:26781/huya/11279251
@@ -2855,6 +2854,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+贝爷贰厅,https://goodiptv.club/douyu/4332
 贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
 下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
 下饭神剧,http://159.75.85.63:35455/douyu/276200
@@ -2862,6 +2862,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 下饭神剧,http://43.138.170.29:35455/douyu/276200
 热门港剧,http://www.douzhicloud.site:35455/douyu/5522351
 热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
+神乐影剧,http://159.75.85.63:35455/douyu/122402
 经典剧场,http://live.dxms.top:80/dwy/jdjc.php
 恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
 欢乐综艺,https://live.ottiptv.cc/douyu/131977
@@ -2887,6 +2888,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 萌小鬼片,http://159.75.85.63:35455/douyu/3928
 萌小鬼片,http://zzy789.xyz/douyu1.php?id=3928
 恐怖惊悚,http://zzy789.xyz/douyu1.php?id=96577
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
@@ -3297,6 +3299,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
 我爱我家,https://live.metshop.top/yy/1382735557
 法证先锋Ⅲ,http://alist.xicp.fun:35455/yy/1382736802
+法证先锋Ⅲ,http://cfss.cc/cdn/hy/23863804.flv
 金婚,http://11.xmyxc.cn/api/php/yy.php?id=1382828768
 金婚,http://alist.xicp.fun:35455/yy/1382736832
 金婚,http://43.138.170.29:35455/yy/1382736832
