@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260304 04:21,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260305 04:21,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -525,7 +525,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,https://t.freetv.fun/live/cctv-8gao-qing-1.m3u8
-CCTV8K,https://t.freetv.fun/live/cctv-8-gao-qing.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
@@ -1673,7 +1672,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 TVBS欢乐,https://mao.ffmking888.dpdns.org/?id=VFZCUaatoeaoguWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS欢乐,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv068/index.m3u8
 TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
@@ -2602,6 +2600,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 李连杰,http://www.xzbn.site:35455/huya/11342390
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 李连杰,http://43.138.170.29:35455/yy/74613175
+李连杰,https://live.iill.top/huya/29076690
 洪金宝,http://74.91.26.218:82/live/vlhjb.m3u8
 洪金宝,http://124.248.69.76:26781/huya/11279251
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-4.ctv
@@ -2852,7 +2851,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 邦德影院,http://zzy789.xyz/douyu1.php?id=9292499
 邦德影院,http://43.138.170.29:35455/douyu/9292499
 华语影视,http://www.douzhicloud.site:35455/douyu/3928
-可乐影视,https://goodiptv.club/douyu/20415
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
