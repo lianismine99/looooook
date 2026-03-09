@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260309 04:13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260310 04:20,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -468,9 +468,11 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV国防军事,http://nas.hssvm.com:8888/udp/225.1.1.187:5002
 CCTV发现之旅,http://www.wmviv.com/iptv/bc2t.php?id=fxzl
 CCTV发现之旅,http://113.44.65.227:1234/624878970
@@ -524,7 +526,9 @@ CCTV8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
+CCTV8K,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8gao-qing-1.m3u8
+CCTV8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
@@ -1797,6 +1801,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 八大综艺,http://api.mytv666.top/api/hk.php?id=3661663237323836323533336531326231366461356565383364653331353739267469643d74762669643d313536
 八大综艺,https://hls-gateway.vpstv.net/streams/708948.m3u8
 八大综艺,https://tv.iill.top/litv/4gtv-4gtv039
+八大综艺,https://t.freetv.fun/live/ba-da-zong-yi.m3u8
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
@@ -1843,6 +1848,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 三立综合,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
 三立综合,https://tv.iill.top/4gtv/169
 三立综合,http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+三立综合,https://t.freetv.fun/live/san-li-zong-he.m3u8
 中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
@@ -1992,6 +1998,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 民视影剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视影剧,https://tv.iill.top/litv/litv-ftv09
+民视影剧,https://t.freetv.fun/live/min-shi-ying-ju.m3u8
 民视新闻,http://live4play.uk/livehttpplay?channel_id=20097
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -2063,6 +2070,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 民视旅游,https://stream1.freetv.fun/min-shi-lu-you-1.ctv
 民视旅游,https://stream1.freetv.fun/min-shi-lu-you-2.ctv
 民视旅游,https://tv.iill.top/litv/litv-ftv07
+民视旅游,https://t.freetv.fun/live/min-shi-lu-you.m3u8
 民视综艺,https://stream1.freetv.fun/min-shi-zong-yi-1.ctv
 民视综艺,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
 民视综艺,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW57ac6Jed5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -2077,6 +2085,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 民视综艺,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视综艺,https://t.freetv.fun/live/min-shi-zong-yi.m3u8
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
@@ -2169,7 +2178,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 东森戏剧,https://hls-gateway.vpstv.net/streams/476994.m3u8
 东森戏剧,http://fm1077.serv00.net/Smart.php?id=ettvdrama
-东森戏剧,https://t.freetv.fun/live/dong-sen-xi-ju.php
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
@@ -2243,6 +2251,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju.m3u8
 靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
@@ -2259,6 +2268,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6800&tk=e503191f8e20
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5899&tk=e640d0a1bf70
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,http://43.251.226.89:8080/play/913.m3u8
 龙华戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
@@ -2349,17 +2359,19 @@ Now财经,https://yang-1989.eu.org/live/now-333
 大爱电视,https://tv.iill.top/4gtv/209
 大爱电视,https://hls-gateway.vpstv.net/streams/477082.m3u8
 大爱电视,https://t.freetv.fun/live/da-ai-dian-shi.php
+大爱电视,https://t.freetv.fun/live/da-ai-dian-shi-1.m3u8
 大爱二台,https://hls-gateway.vpstv.net/streams/493133.m3u8
 大爱二台,https://t.freetv.fun/live/da-ai-er-6.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱二台,https://t.freetv.fun/live/da-ai-er.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 创世电视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5178
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -2464,6 +2476,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳门莲花,https://t.freetv.fun/live/ao-men-lian-hua-1.m3u8
 镜电视新闻,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 镜电视新闻,https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8
 镜电视新闻,https://mao.ffmking888.dpdns.org/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -2483,6 +2496,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 RTHK32,https://t.freetv.fun/live/rthk32-sg.m3u8
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 RTHK32,https://t.freetv.fun/live/rthk32.php
+RTHK32,https://t.freetv.fun/live/rthk-32.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 
@@ -2571,6 +2585,7 @@ AMC电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_T
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影台,http://api.mytv666.top/api/hk.php?id=6533613534396538393766353437626463616663386263386337376463366664267469643d74762669643d313234
 AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
+AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
@@ -2598,7 +2613,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 周星星,http://11.xmyxc.cn/api/php/yy.php?id=29945997
 周星星,https://www.goodiptv.club/huya/11342412
 周星星,http://iptv.jxpan.vip:18888/aio/huya/11342412
-周星星,http://dxa.yiandrive.com:38657/huya/11342412
 周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
 周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 周星驰,https://live.iill.top/huya/11342412
@@ -2618,7 +2632,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 李连杰,http://www.xzbn.site:35455/huya/11342390
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 李连杰,http://43.138.170.29:35455/yy/74613175
-李连杰,http://dxa.yiandrive.com:38657/huya/29076690
 洪金宝,http://74.91.26.218:82/live/vlhjb.m3u8
 洪金宝,http://124.248.69.76:26781/huya/11279251
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-4.ctv
@@ -2630,7 +2643,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 洪金宝,http://43.138.170.29:35455/yy/1354924839
 洪金宝,https://t.freetv.fun/live/hong-jin-bao.flv
 梁家辉,http://www.xzbn.site:35455/huya/11342429
-梁家辉,http://dxa.yiandrive.com:38657/huya/11342429
 许冠英,http://www.xzbn.site:35455/huya/11601972
 许冠英,http://live.nctv.top/huya.php?id=11601972
 刘德华,http://live.nctv.top/huya.php?id=11342424
@@ -2642,7 +2654,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 刘德华,http://www.xzbn.site:35455/huya/11342424
 刘德华,http://43.138.170.29:35455/yy/1382745111
 刘德华,https://t.freetv.fun/live/liu-de-hua.flv
-刘德华,http://dxa.yiandrive.com:38657/huya/11342424
 星爷,http://1.94.31.214:35455/huya/11342412
 英叔,http://1.94.31.214:35455/huya/11342421
 发哥,http://1.94.31.214:35455/huya/11342387
@@ -2679,10 +2690,10 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 甄子丹,http://www.xzbn.site:35455/huya/11352935
 甄子丹,https://live.ottiptv.cc/huya/11352935
 电影_英叔,http://124.248.69.76:35455/huya/11342421
+电影_英叔,https://lbds.us.ci/11342421
 电影_黄渤,http://live.nctv.top/huya.php?id=11352876
 电影_黄渤,http://124.248.69.76:35455/huya/11352876
 电影_黄渤,https://lbds.us.ci/11352876
-电影_黄渤,http://dxa.yiandrive.com:38657/huya/11352876
 电影_周星星,http://live.nctv.top/huya.php?id=11336587
 电影_周星星,http://124.248.69.76:35455/huya/11336587
 电影_周星星,http://www.xzbn.site:35455/huya/11336587
@@ -2701,11 +2712,9 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_强森,http://cdn.jdshipin.com:8880/huya.php?id=21059581
 电影_强森,http://124.248.69.76:35455/huya/21059581
 电影_强森,https://lbds.us.ci/21059581
-电影_强森,http://dxa.yiandrive.com:38657/huya/21059581
 电影_沈腾,http://live.nctv.top/huya.php?id=11601968
 电影_沈腾,http://124.248.69.76:35455/huya/11601968
 电影_沈腾,https://lbds.us.ci/11601968
-电影_沈腾,http://dxa.yiandrive.com:38657/huya/11601968
 电影_李连杰,http://live.nctv.top/huya.php?id=11342390
 电影_李连杰,http://124.248.69.76:35455/huya/11342390
 电影_李连杰,https://lbds.us.ci/11342390
@@ -2724,14 +2733,12 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_怪兽,http://124.248.69.76:35455/huya/21059577
 电影_怪兽,http://www.xzbn.site:35455/huya/21059577
 电影_怪兽,https://lbds.us.ci/21059577
-电影_怪兽,http://dxa.yiandrive.com:38657/huya/21059577
 电影_喜乐影院,http://live.nctv.top/huya.php?id=21059580
 电影_喜乐影院,https://live.iill.top/huya/21059580
 电影_喜乐影院,http://cdn.jdshipin.com:8880/huya.php?id=21059580
 电影_喜乐影院,http://124.248.69.76:26781/huya/21059580
 电影_喜乐影院,http://124.248.69.76:35455/huya/21059580
 电影_喜乐影院,http://www.xzbn.site:35455/huya/21059580
-电影_喜乐影院,https://lbds.us.ci/21059580
 电影_喜剧专场,http://live.nctv.top/huya.php?id=11602044
 电影_喜剧专场,http://cdn.jdshipin.com:8880/huya.php?id=11602044
 电影_喜剧专场,http://124.248.69.76:35455/huya/11602044
@@ -2764,7 +2771,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_罪犯,http://live.nctv.top/huya.php?id=11352962
 电影_罪犯,http://www.xzbn.site:35455/huya/11352962
 电影_罪犯,https://lbds.us.ci/11352962
-电影_罪犯,http://dxa.yiandrive.com:38657/huya/11352962
 电影_盗墓,http://live.nctv.top/huya.php?id=21059552
 电影_盗墓,https://live.iill.top/huya/21059552
 电影_盗墓,http://124.248.69.76:26781/huya/21059552
@@ -2813,7 +2819,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_搞笑恐怖,http://live.nctv.top/huya.php?id=11601960
 电影_搞笑恐怖,http://124.248.69.76:35455/huya/11601960
 电影_搞笑恐怖,http://www.xzbn.site:35455/huya/11601960
-电影_搞笑恐怖,https://lbds.us.ci/11601960
 电影_枪战,http://live.nctv.top/huya.php?id=21059579
 电影_枪战,http://124.248.69.76:35455/huya/21059579
 电影_枪战,http://www.xzbn.site:35455/huya/21059579
@@ -2852,7 +2857,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_赛车,http://www.xzbn.site:35455/huya/11279247
 电影_赛车,https://lbds.us.ci/11279247
 电影_赛车,http://124.248.69.76:35455/huya/11279247
-电影_赛车,http://dxa.yiandrive.com:38657/huya/11279247
 电影_死神来了,http://live.nctv.top/huya.php?id=11352903
 电影_死神来了,https://live.iill.top/huya/11352903
 电影_死神来了,http://124.248.69.76:35455/huya/11352903
@@ -2861,7 +2865,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 电影_推荐,http://live.nctv.top/huya.php?id=11602041
 电影_推荐,http://www.xzbn.site:35455/huya/11602041
 电影_推荐,https://lbds.us.ci/11602041
-电影_推荐,http://dxa.yiandrive.com:38657/huya/11602041
 电影_蜘蛛侠,http://124.248.69.76:35455/huya/21059599
 电影_蜘蛛侠,http://live.nctv.top/huya.php?id=21059599
 电影_蜘蛛侠,http://www.xzbn.site:35455/huya/21059599
@@ -2911,7 +2914,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 邦德影院,http://zzy789.xyz/douyu1.php?id=9292499
 邦德影院,http://43.138.170.29:35455/douyu/9292499
 华语影视,http://www.douzhicloud.site:35455/douyu/3928
-可乐影视,https://goodiptv.club/douyu/20415
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
@@ -2989,7 +2991,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
 与凤行,https://live.ottiptv.cc/huya/26355866
 与凤行,http://159.75.85.63:35455/huya/26355866#http://cfss.cc/cdn/hy/26355866.m3u8
-与凤行,http://dxa.yiandrive.com:38657/huya/26355866
 知否知否,http://www.douzhicloud.site:35455/yy/21881901
 知否知否,http://11.xmyxc.cn/api/php/yy.php?id=398312
 知否知否,http://43.138.170.29:35455/yy/21881901
@@ -3006,7 +3007,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 庆余年,http://live.nctv.top/douyu.php?id=7812810
 庆余年,http://www.xzbn.site:35455/douyu/7812810
 庆余年,https://live.ottiptv.cc/huya/11352960
-庆余年,http://dxa.yiandrive.com:38657/huya/29982639
 开端,http://live.nctv.top/huya.php?id=11342397
 开端,http://159.75.85.63:35455/huya/11342397
 开端,http://cfss.cc/cdn/hy/11342397.m3u8
@@ -3195,7 +3195,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 父母爱情,http://alist.xicp.fun:35455/yy/1354926650
 父母爱情,https://live.metshop.top/yy/1354926650
 父母爱情,https://live.ottiptv.cc/yy/1354926650
-父母爱情,http://dxa.yiandrive.com:38657/huya/11602071
+父母爱情,http://dxa.yiandrive.com:27385/huya/30692708
 红楼梦,http://live.nctv.top/huya.php?id=30080221
 红楼梦,http://alist.xicp.fun:35455/yy/1382745084
 红楼梦,https://live.metshop.top/yy/1382745084
@@ -3214,7 +3214,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://alist.xicp.fun:35455/yy/1354936241#https://live.metshop.top/yy/1354936241
-三国演义,http://dxa.yiandrive.com:38657/huya/11602081
 西游记后传,http://www.douzhicloud.site:35455/yy/1353392400
 西游记后传,http://1.94.31.214:35455/yy/1353392400
 西游记后传,http://jiaojirentv.top/2020/yy.php?id=1382736846
@@ -3348,7 +3347,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 武林外传,http://11.xmyxc.cn/api/php/yy.php?id=411376
 武林外传,http://jiaojirentv.top/2020/yy.php?id=1355652820
 武林外传,http://43.138.170.29:35455/yy/1355652820
-武林外传,http://dxa.yiandrive.com:38657/huya/30080141
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
 新水浒传,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
 新水浒传,http://live.metshop.top/huya/11342384
@@ -3392,7 +3390,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382735541
 情满四合院,http://43.138.170.29:35455/yy/1382736888
 情满四合院,http://11.xmyxc.cn/api/php/yy.php?id=1382735541
-情满四合院,http://dxa.yiandrive.com:38657/huya/11342426
 康熙王朝,http://www.douzhicloud.site:35455/huya/11352940
 康熙王朝,http://1.94.31.214:35455/huya/11352940
 康熙王朝,http://11.xmyxc.cn/api/php/yy.php?id=1382851583
@@ -3425,7 +3422,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 爱情公寓,https://live.metshop.top/douyu/2838296
 爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
 爱情公寓,https://live.ottiptv.cc/huya/11336726
-爱情公寓,http://dxa.yiandrive.com:38657/huya/22484908
+爱情公寓,http://dxa.yiandrive.com:27385/huya/22484908
 爱情公寓,http://zzy789.xyz/douyu1.php?id=6863367
 纪晓岚,https://live.metshop.top/huya/11342396
 纪晓岚,http://11.xmyxc.cn/api/php/yy.php?id=1352227227
@@ -4195,13 +4192,10 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 音乐频道,#genre#
 治愈•放松「音乐」,https://live.iill.top/huya/21241811
 治愈•放松「音乐」,http://dns.yiandrive.com:15907/huya/21241811
-治愈•放松「音乐」,http://dxa.yiandrive.com:38657/huya/21241811
 阅读•学习「音乐」,https://live.iill.top/huya/21241813
 阅读•学习「音乐」,http://dns.yiandrive.com:15907/huya/21241813
-阅读•学习「音乐」,http://dxa.yiandrive.com:38657/huya/21241813
 音乐石榴「音乐」,https://live.iill.top/huya/17091681
 音乐石榴「音乐」,http://dns.yiandrive.com:15907/huya/17091681
-音乐石榴「音乐」,http://dxa.yiandrive.com:38657/huya/17091681
 
 
 游戏频道,#genre#
@@ -4210,19 +4204,19 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「B站」JJ斗地主,https://live.iill.top/bilibili/22021983
 「B站」JJ斗地主,http://dns.yiandrive.com:15907/bilibili/22021983
 「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
-「B站」JJ斗地主,http://dxa.yiandrive.com:38657/bilibili/22021983
+「B站」JJ斗地主,http://dxa.yiandrive.com:27385/bilibili/22021983
 「B站」QQ飞车•手游,https://live.iill.top/bilibili/21743919
 「B站」QQ飞车•手游,http://dns.yiandrive.com:15907/bilibili/21743919
 「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
-「B站」QQ飞车•手游,http://dxa.yiandrive.com:38657/bilibili/21743919
+「B站」QQ飞车•手游,http://dxa.yiandrive.com:27385/bilibili/21743919
 「B站」使命召唤•手游,https://live.iill.top/bilibili/22741849
 「B站」使命召唤•手游,http://dns.yiandrive.com:15907/bilibili/22741849
 「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
-「B站」使命召唤•手游,http://dxa.yiandrive.com:38657/bilibili/22741849
+「B站」使命召唤•手游,http://dxa.yiandrive.com:27385/bilibili/22741849
 「B站」无畏契约,https://live.iill.top/bilibili/22908869
 「B站」无畏契约,http://dns.yiandrive.com:15907/bilibili/22908869
 「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
-「B站」无畏契约,http://dxa.yiandrive.com:38657/bilibili/22908869
+「B站」无畏契约,http://dxa.yiandrive.com:27385/bilibili/22908869
 「B站」王者荣耀_𝟙,http://live.iill.top/bilibili.php?id=55
 「B站」王者荣耀_𝟙,https://live.iill.top/bilibili/55
 「B站」王者荣耀_𝟚,http://live.iill.top/bilibili.php?id=21654762
@@ -4230,67 +4224,67 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「B站」第五人格,https://live.iill.top/bilibili/5555
 「B站」第五人格,http://dns.yiandrive.com:15907/bilibili/5555
 「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
-「B站」第五人格,http://dxa.yiandrive.com:38657/bilibili/5555
+「B站」第五人格,http://dxa.yiandrive.com:27385/bilibili/5555
 「B站」绝地求生,https://live.iill.top/bilibili/98
 「B站」绝地求生,http://dns.yiandrive.com:15907/bilibili/98
 「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
-「B站」绝地求生,http://dxa.yiandrive.com:38657/bilibili/98
+「B站」绝地求生,http://dxa.yiandrive.com:27385/bilibili/98
 「B站」英雄联盟,https://live.iill.top/bilibili/6
 「B站」英雄联盟,http://dns.yiandrive.com:15907/bilibili/6
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
-「B站」英雄联盟,http://dxa.yiandrive.com:38657/bilibili/6
+「B站」英雄联盟,http://dxa.yiandrive.com:27385/bilibili/6
 「B站」英雄联盟•手游,https://live.iill.top/bilibili/23138275
 「B站」英雄联盟•手游,http://dns.yiandrive.com:15907/bilibili/23138275
 「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
-「B站」英雄联盟•手游,http://dxa.yiandrive.com:38657/bilibili/23138275
+「B站」英雄联盟•手游,http://dxa.yiandrive.com:27385/bilibili/23138275
 「斗鱼」DOTA2,https://live.iill.top/douyu/3811559
 「斗鱼」DOTA2,http://dns.yiandrive.com:15907/douyu/3811559
 「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
-「斗鱼」DOTA2,http://dxa.yiandrive.com:38657/douyu/3811559
+「斗鱼」DOTA2,http://dxa.yiandrive.com:27385/douyu/3811559
 「斗鱼」FIFA,https://live.iill.top/douyu/7692166
 「斗鱼」FIFA,http://dns.yiandrive.com:15907/douyu/7692166
 「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
-「斗鱼」FIFA,http://dxa.yiandrive.com:38657/douyu/7692166
+「斗鱼」FIFA,http://dxa.yiandrive.com:27385/douyu/7692166
 「斗鱼」JJ斗地主,https://live.iill.top/douyu/488743
 「斗鱼」JJ斗地主,http://dns.yiandrive.com:15907/douyu/488743
 「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
-「斗鱼」JJ斗地主,http://dxa.yiandrive.com:38657/douyu/488743
+「斗鱼」JJ斗地主,http://dxa.yiandrive.com:27385/douyu/488743
 「斗鱼」QQ飞车•手游,https://live.iill.top/douyu/5040227
 「斗鱼」QQ飞车•手游,http://dns.yiandrive.com:15907/douyu/5040227
 「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
-「斗鱼」QQ飞车•手游,http://dxa.yiandrive.com:38657/douyu/5040227
+「斗鱼」QQ飞车•手游,http://dxa.yiandrive.com:27385/douyu/5040227
 「斗鱼」云顶之弈,https://live.iill.top/douyu/522423
 「斗鱼」云顶之弈,http://dns.yiandrive.com:15907/douyu/522423
 「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
-「斗鱼」云顶之弈,http://dxa.yiandrive.com:38657/douyu/522423
+「斗鱼」云顶之弈,http://dxa.yiandrive.com:27385/douyu/522423
 「斗鱼」使命召唤•手游,https://live.iill.top/douyu/9223245
 「斗鱼」使命召唤•手游,http://dns.yiandrive.com:15907/douyu/9223245
 「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
-「斗鱼」使命召唤•手游,http://dxa.yiandrive.com:38657/douyu/9223245
+「斗鱼」使命召唤•手游,http://dxa.yiandrive.com:27385/douyu/9223245
 「斗鱼」原神,https://live.iill.top/douyu/10853239
 「斗鱼」原神,http://dns.yiandrive.com:15907/douyu/10853239
 「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
-「斗鱼」原神,http://dxa.yiandrive.com:38657/douyu/10853239
+「斗鱼」原神,http://dxa.yiandrive.com:27385/douyu/10853239
 「斗鱼」和平精英,https://live.iill.top/douyu/999
 「斗鱼」和平精英,http://dns.yiandrive.com:15907/douyu/999
 「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
-「斗鱼」和平精英,http://dxa.yiandrive.com:38657/douyu/999
+「斗鱼」和平精英,http://dxa.yiandrive.com:27385/douyu/999
 「斗鱼」我的世界,https://live.iill.top/douyu/738878
 「斗鱼」我的世界,http://dns.yiandrive.com:15907/douyu/738878
 「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
-「斗鱼」我的世界,http://dxa.yiandrive.com:38657/douyu/738878
+「斗鱼」我的世界,http://dxa.yiandrive.com:27385/douyu/738878
 「斗鱼」无畏契约,https://live.iill.top/douyu/4585645
 「斗鱼」无畏契约,http://dns.yiandrive.com:15907/douyu/4585645
 「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
-「斗鱼」无畏契约,http://dxa.yiandrive.com:38657/douyu/4585645
+「斗鱼」无畏契约,http://dxa.yiandrive.com:27385/douyu/4585645
 「斗鱼」梦幻西游·手游,https://live.iill.top/huya/9163712
 「斗鱼」梦幻西游·手游,http://dns.yiandrive.com:15907/huya/9163712
 「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
-「斗鱼」梦幻西游·手游,http://dxa.yiandrive.com:38657/huya/9163712
+「斗鱼」梦幻西游·手游,http://dxa.yiandrive.com:27385/huya/9163712
 「斗鱼」永劫无间,https://live.iill.top/huya/9662891
 「斗鱼」永劫无间,http://dns.yiandrive.com:15907/huya/9662891
 「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
-「斗鱼」永劫无间,http://dxa.yiandrive.com:38657/huya/9662891
+「斗鱼」永劫无间,http://dxa.yiandrive.com:27385/huya/9662891
 「斗鱼」王者荣耀_𝟙,http://live.iill.top/douyu.php?id=1863767
 「斗鱼」王者荣耀_𝟙,https://live.iill.top/douyu/1863767
 「斗鱼」王者荣耀_𝟚,http://live.iill.top/douyu.php?id=1984839
@@ -4302,11 +4296,11 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「斗鱼」第五人格,https://live.iill.top/douyu/3226194
 「斗鱼」第五人格,http://dns.yiandrive.com:15907/douyu/3226194
 「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
-「斗鱼」第五人格,http://dxa.yiandrive.com:38657/douyu/3226194
+「斗鱼」第五人格,http://dxa.yiandrive.com:27385/douyu/3226194
 「斗鱼」绝地求生,https://live.iill.top/douyu/100
 「斗鱼」绝地求生,http://dns.yiandrive.com:15907/douyu/100
 「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
-「斗鱼」绝地求生,http://dxa.yiandrive.com:38657/douyu/100
+「斗鱼」绝地求生,http://dxa.yiandrive.com:27385/douyu/100
 「斗鱼」英雄联盟_𝟙,http://live.iill.top/douyu.php?id=288016
 「斗鱼」英雄联盟_𝟙,https://live.iill.top/douyu/288016
 「斗鱼」英雄联盟_𝟚,http://live.iill.top/douyu.php?id=424559
@@ -4314,19 +4308,19 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「斗鱼」街霸,https://live.iill.top/huya/11437
 「斗鱼」街霸,http://dns.yiandrive.com:15907/huya/11437
 「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
-「斗鱼」街霸,http://dxa.yiandrive.com:38657/huya/11437
+「斗鱼」街霸,http://dxa.yiandrive.com:27385/huya/11437
 「斗鱼」跑跑卡丁车,https://live.iill.top/douyu/7722576
 「斗鱼」跑跑卡丁车,http://dns.yiandrive.com:15907/douyu/7722576
 「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
-「斗鱼」跑跑卡丁车,http://dxa.yiandrive.com:38657/douyu/7722576
+「斗鱼」跑跑卡丁车,http://dxa.yiandrive.com:27385/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://live.iill.top/douyu/6672862
 「斗鱼」跑跑卡丁车•手游,http://dns.yiandrive.com:15907/douyu/6672862
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
-「斗鱼」跑跑卡丁车•手游,http://dxa.yiandrive.com:38657/douyu/6672862
+「斗鱼」跑跑卡丁车•手游,http://dxa.yiandrive.com:27385/douyu/6672862
 「斗鱼」金铲铲之战,https://live.iill.top/douyu/9715241
 「斗鱼」金铲铲之战,http://dns.yiandrive.com:15907/douyu/9715241
 「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
-「斗鱼」金铲铲之战,http://dxa.yiandrive.com:38657/douyu/9715241
+「斗鱼」金铲铲之战,http://dxa.yiandrive.com:27385/douyu/9715241
 游戏风云,http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 游戏风云,http://www.wmviv.com/iptv/bc2t.php?id=yxfy
 游戏风云,http://home.wwang.pw:35455/itv/5000000011000031114.m3u8?cdn=bestzb
@@ -4350,23 +4344,23 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「虎牙」DOTA2,https://live.iill.top/huya/660118
 「虎牙」DOTA2,http://dns.yiandrive.com:15907/huya/660118
 「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
-「虎牙」DOTA2,http://dxa.yiandrive.com:38657/huya/660118
+「虎牙」DOTA2,http://dxa.yiandrive.com:27385/huya/660118
 「虎牙」使命召唤•手游,https://live.iill.top/huya/11718629
 「虎牙」使命召唤•手游,http://dns.yiandrive.com:15907/huya/11718629
 「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
-「虎牙」使命召唤•手游,http://dxa.yiandrive.com:38657/huya/11718629
+「虎牙」使命召唤•手游,http://dxa.yiandrive.com:27385/huya/11718629
 「虎牙」和平精英,https://live.iill.top/huya/660006
 「虎牙」和平精英,http://dns.yiandrive.com:15907/huya/660006
 「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
-「虎牙」和平精英,http://dxa.yiandrive.com:38657/huya/660006
+「虎牙」和平精英,http://dxa.yiandrive.com:27385/huya/660006
 「虎牙」无畏契约,https://live.iill.top/huya/660679
 「虎牙」无畏契约,http://dns.yiandrive.com:15907/huya/660679
 「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
-「虎牙」无畏契约,http://dxa.yiandrive.com:38657/huya/660679
+「虎牙」无畏契约,http://dxa.yiandrive.com:27385/huya/660679
 「虎牙」永劫无间,https://live.iill.top/huya/660115
 「虎牙」永劫无间,http://dns.yiandrive.com:15907/huya/660115
 「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
-「虎牙」永劫无间,http://dxa.yiandrive.com:38657/huya/660115
+「虎牙」永劫无间,http://dxa.yiandrive.com:27385/huya/660115
 「虎牙」王者荣耀_𝟙,http://live.iill.top/huya.php?id=660002
 「虎牙」王者荣耀_𝟙,https://live.iill.top/huya/660002
 「虎牙」王者荣耀_𝟚,http://live.iill.top/huya.php?id=660164
@@ -4374,15 +4368,15 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「虎牙」穿越火线,https://live.iill.top/huya/660101
 「虎牙」穿越火线,http://dns.yiandrive.com:15907/huya/660101
 「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
-「虎牙」穿越火线,http://dxa.yiandrive.com:38657/huya/660101
+「虎牙」穿越火线,http://dxa.yiandrive.com:27385/huya/660101
 「虎牙」穿越火线•手游,https://live.iill.top/huya/660102
 「虎牙」穿越火线•手游,http://dns.yiandrive.com:15907/huya/660102
 「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
-「虎牙」穿越火线•手游,http://dxa.yiandrive.com:38657/huya/660102
+「虎牙」穿越火线•手游,http://dxa.yiandrive.com:27385/huya/660102
 「虎牙」第五人格,https://live.iill.top/huya/idvesports
 「虎牙」第五人格,http://dns.yiandrive.com:15907/huya/idvesports
 「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
-「虎牙」第五人格,http://dxa.yiandrive.com:38657/huya/idvesports
+「虎牙」第五人格,http://dxa.yiandrive.com:27385/huya/idvesports
 「虎牙」绝地求生_𝟙,http://live.iill.top/huya.php?id=660004
 「虎牙」绝地求生_𝟙,https://live.iill.top/huya/660004
 「虎牙」绝地求生_𝟚,http://live.iill.top/huya.php?id=660005
@@ -4394,11 +4388,11 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 「虎牙」逆战,https://live.iill.top/huya/nsl2021
 「虎牙」逆战,http://dns.yiandrive.com:15907/huya/nsl2021
 「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
-「虎牙」逆战,http://dxa.yiandrive.com:38657/huya/nsl2021
+「虎牙」逆战,http://dxa.yiandrive.com:27385/huya/nsl2021
 「虎牙」金铲铲之战,https://live.iill.top/huya/660579
 「虎牙」金铲铲之战,http://dns.yiandrive.com:15907/huya/660579
 「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
-「虎牙」金铲铲之战,http://dxa.yiandrive.com:38657/huya/660579
+「虎牙」金铲铲之战,http://dxa.yiandrive.com:27385/huya/660579
 
 
 解说频道,#genre#
@@ -4406,7 +4400,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 七龙珠「解说」,http://dns.yiandrive.com:15907/huya/25650806
 动漫•1「解说」,https://live.iill.top/huya/19757963
 动漫•1「解说」,http://dns.yiandrive.com:15907/huya/19757963
-德爷荒岛求生解说,http://dxa.yiandrive.com:38657/huya/16289380
 恐怖电影「解说」,https://live.iill.top/huya/23419131
 恐怖电影「解说」,http://dns.yiandrive.com:15907/huya/23419131
 止戈电影「解说」,https://live.iill.top/huya/19863777
@@ -4460,7 +4453,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 解说_扁豆看电影,http://iptv.jxpan.vip:18888/aio/huya/16028551
 解说_扁豆看电影,https://live.metshop.top/huya/16028551
 解说_扁豆看电影,https://lbds.us.ci/16028551
-解说_扁豆看电影,http://dxa.yiandrive.com:38657/huya/16028551
 解说_斌哥漫说,http://live.nctv.top/huya.php?id=18632116
 解说_斌哥漫说,https://live.metshop.top/huya/18632116
 解说_斌哥漫说,https://lbds.us.ci/18632116
@@ -4503,4 +4495,3 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 解说_默爷侃电影,https://live.metshop.top/huya/17204307
 阿斗归来了,https://www.goodiptv.club/huya/13303478
 阿斗归来了,http://iptv.jxpan.vip:18888/aio/huya/13303478
-阿斗归来了,http://dxa.yiandrive.com:38657/huya/13303478
