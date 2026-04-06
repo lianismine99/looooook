@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260406 04:19,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260407 04:27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -1775,6 +1775,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 八大综合,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,http://fm1077.serv00.net/Smart.php?id=badazhonghe
+八大综合,p3p://focus169.org:36826/68ce818f000929b2409adcf212b2737f
 八大精彩,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩,https://4gtv.dxjc.pp.ua/4gtv-4gtv034/index.m3u8
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
@@ -2129,7 +2130,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 东森综合,http://fm1077.serv00.net/Smart.php?id=ettvzhonghe
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 东森综合,https://t.freetv.fun/live/dong-sen-zong-he.php
-东森综合,https://t.freetv.fun/live/dong-sen-zong-he-1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -2188,7 +2188,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 东森戏剧,https://hls-gateway.vpstv.net/streams/476994.m3u8
 东森戏剧,http://fm1077.serv00.net/Smart.php?id=ettvdrama
-东森戏剧,https://t.freetv.fun/live/dong-sen-xi-ju.m3u8
 东森戏剧,https://t.freetv.fun/live/dong-sen-xi-ju-ee.php
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
