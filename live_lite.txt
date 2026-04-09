@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260409 04:31,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260410 04:39,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2300,6 +2300,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju.php
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -2420,10 +2421,8 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
 非凡新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20179
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.php
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-3.php
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-1-1.php
-非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.m3u8
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -4035,7 +4034,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://113.236.17.12:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://61.243.161.199:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
