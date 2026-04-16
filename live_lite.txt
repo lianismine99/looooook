@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260416 04:37,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260417 04:37,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -528,6 +528,7 @@ CCTV8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV8K,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
@@ -1911,7 +1912,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3884&tk=e640d0a1bf70
 中天亚洲,https://test.946985.filegear-sg.me/proxy/d885fab17c413830
-中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天亚洲,https://www.faintv.com/channel/121
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
@@ -1951,7 +1952,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 中视菁采,https://hls-gateway.vpstv.net/streams/476260.m3u8
 中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai.m3u8
+中视菁采,https://www.faintv.com/channel/12923
 中视经典,https://mao.ffmking888.dpdns.org/?id=5Lit6KaW57aT5YW45Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 中视经典,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv080/index.m3u8
 中视经典,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv080/index.m3u8?proxy=true
@@ -2283,8 +2284,8 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6800&tk=e503191f8e20
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5899&tk=e640d0a1bf70
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖天电影,https://test.946985.filegear-sg.me/proxy/1ff1b47396f2e7c1
+靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
 靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying-1.php
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
@@ -2303,6 +2304,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+龙华戏剧,https://test.946985.filegear-sg.me/proxy/5b0a026e971d12bc
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -4025,6 +4027,10 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu-1.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu-2.m3u8
+足球频道,https://t.freetv.fun/live/zu-qiu-3.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,http://119.112.167.61:4022/rtp/232.0.0.66:8820
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
@@ -4034,7 +4040,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://61.243.161.199:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
 辽宁体育,http://182.207.218.25:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
