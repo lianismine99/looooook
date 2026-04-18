@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260418 04:35,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260419 04:22,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -1651,7 +1651,6 @@ TVB戏曲,https://hls-gateway.vpstv.net/streams/709493.m3u8
 TVBJ2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 TVBJ2,http://ali.hlspull.yximgs.com/live/c83e42ec5693147f7185fc2f619e1eb8.flv
 TVBJ2,http://fm1077.serv00.net/Smart.php?id=j2_twn
-TVBJ2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻,https://mao.ffmking888.dpdns.org/?id=VFZCUaaWsOiBngxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS新闻,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8
@@ -2305,7 +2304,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
-龙华戏剧,https://www.faintv.com/channel/95
+龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju.php
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -2427,9 +2426,9 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 非凡新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20179
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新闻,https://test.946985.filegear-sg.me/proxy/f07bcb5f8d981def
+非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.php
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-3.php
 非凡新闻,rtmp://9hv1.mine.nu/sat/tv581
-非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.php
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -2915,6 +2914,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 热门港剧,http://www.douzhicloud.site:35455/douyu/5522351
 热门港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
 热门港剧,http://www.goodiptv.club/douyu/5522351
+神乐影剧,http://159.75.85.63:35455/douyu/122402
 经典剧场,http://live.dxms.top:80/dwy/jdjc.php
 恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
 欢乐综艺,https://live.ottiptv.cc/douyu/131977
@@ -2939,6 +2939,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 萌小鬼片,http://159.75.85.63:35455/douyu/3928
 萌小鬼片,http://zzy789.xyz/douyu1.php?id=3928
 恐怖惊悚,http://zzy789.xyz/douyu1.php?id=96577
+恐怖惊悚,http://159.75.85.63:35455/douyu/96577
 豆瓣高分,http://159.75.85.63:35455/douyu/8770422
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
@@ -3361,6 +3362,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
 我爱我家,https://live.metshop.top/yy/1382735557
 法证先锋Ⅲ,http://alist.xicp.fun:35455/yy/1382736802
+法证先锋Ⅲ,http://cfss.cc/cdn/hy/23863804.flv
 金婚,http://11.xmyxc.cn/api/php/yy.php?id=1382828768
 金婚,http://alist.xicp.fun:35455/yy/1382736832
 金婚,http://43.138.170.29:35455/yy/1382736832
@@ -3402,7 +3404,6 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 爱情公寓,https://live.metshop.top/douyu/2838296
 爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
 爱情公寓,https://live.ottiptv.cc/huya/11336726
-爱情公寓,https://live.iill.top/huya/22484908
 爱情公寓,http://zzy789.xyz/douyu1.php?id=6863367
 纪晓岚,https://live.metshop.top/huya/11342396
 纪晓岚,http://11.xmyxc.cn/api/php/yy.php?id=1352227227
@@ -4060,6 +4061,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
 魅力足球,http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
