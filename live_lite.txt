@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260421 04:34,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260422 04:39,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -1802,7 +1802,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 八大精彩,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
 八大精彩,https://hls-gateway.vpstv.net/streams/477035.m3u8
 八大精彩,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
-八大精彩,https://test.946985.filegear-sg.me/proxy/76e46eff4f5b5fe1
 八大精彩,https://t.freetv.fun/live/ba-da-jing-cai.php
 八大综艺,https://4gtv.dxjc.pp.ua/4gtv-4gtv039/index.m3u8
 八大综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv039/index.m3u8?proxy=true
@@ -1817,7 +1816,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 八大综艺,http://api.mytv666.top/api/hk.php?id=3661663237323836323533336531326231366461356565383364653331353739267469643d74762669643d313536
 八大综艺,https://hls-gateway.vpstv.net/streams/708948.m3u8
 八大综艺,https://tv.iill.top/litv/4gtv-4gtv039
-八大综艺,https://test.946985.filegear-sg.me/proxy/6e2fe80f21aad6ff
 八大综艺,https://t.freetv.fun/live/ba-da-zong-yi.php
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
@@ -1920,8 +1918,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 中天亚洲,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8643&tk=e503191f8e20
 中天亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3884&tk=e640d0a1bf70
-中天亚洲,https://www.faintv.com/channel/121
-中天亚洲,https://test.946985.filegear-sg.me/proxy/d885fab17c413830
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
@@ -1961,7 +1958,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 中视菁采,https://hls-gateway.vpstv.net/streams/476260.m3u8
 中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-中视菁采,https://www.faintv.com/channel/12923
+中视菁采,https://t.freetv.fun/live/zhong-shi-jing-cai.m3u8
 中视经典,https://mao.ffmking888.dpdns.org/?id=5Lit6KaW57aT5YW45Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 中视经典,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv080/index.m3u8
 中视经典,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv080/index.m3u8?proxy=true
@@ -2012,7 +2009,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 民视影剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视影剧,https://tv.iill.top/litv/litv-ftv09
-民视影剧,https://test.946985.filegear-sg.me/proxy/8f56b006ed6b4f5f
 民视影剧,https://t.freetv.fun/live/min-shi-ying-ju.m3u8
 民视影剧,https://t.freetv.fun/live/min-shi-ying-ju-1.php
 民视影剧,https://t.freetv.fun/live/min-shi-ying-ju-1-1.php
@@ -2087,7 +2083,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 民视旅游,https://stream1.freetv.fun/min-shi-lu-you-1.ctv
 民视旅游,https://stream1.freetv.fun/min-shi-lu-you-2.ctv
 民视旅游,https://tv.iill.top/litv/litv-ftv07
-民视旅游,https://test.946985.filegear-sg.me/proxy/ee0483ee8ecfdf12
 民视旅游,https://t.freetv.fun/live/min-shi-lu-you.php
 民视综艺,https://stream1.freetv.fun/min-shi-zong-yi-1.ctv
 民视综艺,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
@@ -2103,7 +2098,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 民视综艺,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004
 民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-民视综艺,https://test.946985.filegear-sg.me/proxy/75e7799473cb3380
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi.php
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi-1.php
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
@@ -2248,7 +2242,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
 纬来日本,https://hls.iill.top/api/wlrb/index.m3u8
-纬来日本,rtmp://9hv1.mine.nu/sat/tv771
 纬来日本,https://t.freetv.fun/live/wei-lai-ri-ben-ee.php
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
@@ -2262,7 +2255,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 纬来育乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandyule_twn
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
-纬来育乐,rtmp://9hv1.mine.nu/sat/tv701
 靖洋戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖洋戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
 靖洋戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
@@ -2275,7 +2267,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
 靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖洋戏剧,https://test.946985.filegear-sg.me/proxy/8f4b84e6279932ba
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1-1.php
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1.php
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju.m3u8
@@ -2295,10 +2286,9 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6800&tk=e503191f8e20
 靖天电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5899&tk=e640d0a1bf70
 靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
-靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
-靖天电影,https://test.946985.filegear-sg.me/proxy/1ff1b47396f2e7c1
 靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
 靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying-1.php
+靖天电影,https://t.freetv.fun/live/jing-tian-dian-ying-1-1.php
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,http://43.251.226.89:8080/play/913.m3u8
 龙华戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
@@ -2435,10 +2425,8 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
 非凡新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20179
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新闻,https://test.946985.filegear-sg.me/proxy/f07bcb5f8d981def
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-3.php
-非凡新闻,rtmp://9hv1.mine.nu/sat/tv581
-非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.php
+非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen.php
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -4041,7 +4029,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球频道,https://t.freetv.fun/live/zu-qiu.m3u8
 足球频道,https://t.freetv.fun/live/zu-qiu-2.m3u8
-足球频道,https://t.freetv.fun/live/zu-qiu-3.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,http://119.112.167.61:4022/rtp/232.0.0.66:8820
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
@@ -4050,6 +4037,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://113.236.17.12:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://61.243.161.199:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
+辽宁体育,http://117.72.203.216:3000/962067526
 辽宁体育,http://182.207.218.25:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
