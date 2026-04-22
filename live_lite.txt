@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260422 04:39,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260423 04:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -398,6 +398,7 @@ CCTV第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=21902
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-2.m3u8
+CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-3.m3u8
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -4037,7 +4038,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://113.236.17.12:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://61.243.161.199:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
-辽宁体育,http://117.72.203.216:3000/962067526
 辽宁体育,http://182.207.218.25:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
@@ -4060,7 +4060,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
 魅力足球,http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
