@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260423 04:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260424 04:42,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2905,6 +2905,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+贝爷贰厅,https://goodiptv.club/douyu/4332
 贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
 下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
 下饭神剧,http://159.75.85.63:35455/douyu/276200
@@ -4028,7 +4029,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-足球频道,https://t.freetv.fun/live/zu-qiu.m3u8
 足球频道,https://t.freetv.fun/live/zu-qiu-2.m3u8
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,http://119.112.167.61:4022/rtp/232.0.0.66:8820
@@ -4040,6 +4040,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
 辽宁体育,http://182.207.218.25:999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
+辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
@@ -4060,6 +4061,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
 魅力足球,http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
