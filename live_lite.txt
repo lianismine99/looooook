@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260424 04:42,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260425 04:34,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -398,7 +398,6 @@ CCTV第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=21902
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-2.m3u8
-CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-3.m3u8
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -427,8 +426,8 @@ CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-1.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu.m3u8
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-2.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-1.m3u8
+CCTV风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-2.m3u8
 CCTV高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
@@ -1568,10 +1567,10 @@ TVB翡翠,http://api.mytv666.top/api/hk.php?id=326265373239356438313530613866363
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠,http://74.91.26.218:82/live/jade.m3u8
-TVB翡翠,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20066
 TVB翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,https://hls-gateway.vpstv.net/streams/476929.m3u8
+TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB明珠,http://bxtv.3a.ink/api.php?id=mz
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
@@ -1694,7 +1693,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190
 TVBS欢乐,https://mao.ffmking888.dpdns.org/?id=VFZCUaatoeaoguWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 TVBS欢乐,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv068/index.m3u8
 TVBS欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
@@ -1900,7 +1898,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 中天综合,https://hls-gateway.vpstv.net/streams/477084.m3u8
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
-中天综合,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20195
 中天亚洲,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv109/index.m3u8?proxy=true
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
@@ -2135,6 +2132,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
 东森综合,http://fm1077.serv00.net/Smart.php?id=ettvzhonghe
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
+东森综合,https://h5cdn3.kylintv.tv/live/ebcvtv_iphone.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -2164,8 +2162,6 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou-2.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
-东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20210
-东森美洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20175
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
@@ -2424,7 +2420,7 @@ Now财经,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 非凡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
 非凡新闻,https://hls-gateway.vpstv.net/streams/477083.m3u8
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
-非凡新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20179
+非凡新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv010&token=https://t.me/GPT_858
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-3.php
 非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen.php
@@ -2866,7 +2862,6 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://live.nctv.top/douyu.php?id=4246519
 邵氏影院,http://www.xzbn.site:35455/douyu/4246519
-邵氏影院,https://goodiptv.club/douyu/4246519
 邵氏影院,http://www.goodiptv.club/douyu/4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,https://www.goodiptv.club/douyu/4246519
@@ -2897,15 +2892,16 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 刀刀影院,http://www.douzhicloud.site:35455/douyu/747764
 刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
 刀刀影院,http://www.goodiptv.club/douyu/747764
+刀刀影院,https://goodiptv.club/douyu/747764
 邦德影院,http://159.75.85.63:35455/douyu/9292499
 邦德影院,http://zzy789.xyz/douyu1.php?id=9292499
 邦德影院,http://43.138.170.29:35455/douyu/9292499
 华语影视,http://www.douzhicloud.site:35455/douyu/3928
 华语影视,http://www.goodiptv.club/douyu/3928
+可乐影视,https://goodiptv.club/douyu/20415
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-贝爷贰厅,https://goodiptv.club/douyu/4332
 贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
 下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
 下饭神剧,http://159.75.85.63:35455/douyu/276200
@@ -2919,7 +2915,6 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 恐怖鬼怪,http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
 欢乐综艺,https://live.ottiptv.cc/douyu/131977
 欢乐综艺,http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
-欢乐综艺,https://goodiptv.club/douyu/131977
 万合出品,https://live.ottiptv.cc/douyu/9220456
 万合出品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
 万合出品,https://www.goodiptv.club/douyu/9220456
@@ -3181,6 +3176,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 父母爱情,http://alist.xicp.fun:35455/yy/1354926650
 父母爱情,https://live.metshop.top/yy/1354926650
 父母爱情,https://live.ottiptv.cc/yy/1354926650
+父母爱情,https://live.iill.top/huya/30692708
 红楼梦,http://live.nctv.top/huya.php?id=30080221
 红楼梦,http://alist.xicp.fun:35455/yy/1382745084
 红楼梦,https://live.metshop.top/yy/1382745084
@@ -4061,7 +4057,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
 魅力足球,http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
