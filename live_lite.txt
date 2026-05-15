@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260515 05:02,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260516 04:47,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -399,10 +399,10 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://107.150.60.122/live/dyjc.m3u8
 CCTV第一剧场,http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/224/3221227225/10000100000000060000000000680077_0.smil
 CCTV第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001621/index.m3u8?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&streamkey=07xclP9QQ7A17NHSunxvhUhDmEAgCJHPSWwcmXXGtD5B1ctgr4sNGjOLgDUiqhY3hbKKrXCg3V0Mv4oFIdXvsvsAV0LnOhkY1hZzilPs1GDH833k0xqsPako&token=1775754265-e70414852ba80d73-0-504af0de169af5289009509fea184863
+CCTV第一剧场,http://107.150.60.122/live/dyjc.m3u8
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -449,10 +449,10 @@ CCTV世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://36.129.204.117:9003//hls/78/index.m3u8
 CCTV世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV世界地理,http://107.150.60.122/live/sjdl.m3u8
 CCTV世界地理,http://59.62.1.50:8888/rtsp/115.153.254.117/PLTV/88888888/224/3221226965/86128966.smil
 CCTV世界地理,http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/224/3221227222/10000100000000060000000000680136_0.smil
 CCTV世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
+CCTV世界地理,http://107.150.60.122/live/sjdl.m3u8
 CCTV世界地理,http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -496,6 +496,7 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化精品,http://192.151.150.154/live/ysjp.m3u8
 CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV央视文化精品,http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/224/3221227220/10000100000000060000000000680139_0.smil
 CCTV央视文化精品,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001670/index.m3u8?streamid=618d33181dba2b51e9d3752d73d737b8&streamkey=0BeWwyHBmiCHyS40J1tisoH3ivjrXhzz03oQbO5uiXsRKSS8kvCliHls9zj3gCGKqzJGZJSNE6Evbwmw4OinJFa3A7rvlVNctyhssTQDHow2JgnP7kv4mVoKgkDCCSyt8M3n&token=1775754194-77abd02e1989ddc1-0-d8b4892968a6f3343a776beca71cbdc8
@@ -521,6 +522,7 @@ CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
 CCTV电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.1.194:5002
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
+CCTV电视指南,http://192.151.150.154/live/dszn.m3u8
 CCTV电视指南,http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/224/3221227319/10000100000000060000000001946421_0.smil
 CCTV电视指南,http://107.150.60.122/live/dszn.m3u8
 CCTV老故事,http://www.wmviv.com/iptv/bc2t.php?id=lgs
@@ -565,7 +567,6 @@ CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8
-CCTV8K,https://t.freetv.fun/live/cctv-8.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
@@ -2343,7 +2344,6 @@ Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
-龙华戏剧,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang18
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -2729,7 +2729,9 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 王晶,http://live.nctv.top/huya.php?id=11602058
 王晶,https://isus.cc/php/huya.php?id=11602058
 王晶,https://live.metshop.top/huya/11602058
+王晶,http://1.94.31.214:35455/huya/11602058
 沈腾,http://www.xzbn.site:35455/huya/11601968
+沈腾,http://1.94.31.214:35455/huya/11601968
 黄渤,http://1.94.31.214:35455/huya/11352876
 林正英,http://live.nctv.top/huya.php?id=11342421
 林正英,http://74.91.26.218:82/live/vllzy.m3u8
@@ -2744,6 +2746,7 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 林正英,https://isus.cc/php/huya.php?id=11342421
 林正英,https://live.ottiptv.cc/huya/11342421
 强森,https://isus.cc/php/huya.php?id=21059581
+强森,http://1.94.31.214:35455/huya/21059581
 巨石强森,http://www.xzbn.site:35455/huya/21059581
 杰森斯坦森,http://www.xzbn.site:35455/huya/21059588
 杰森斯坦森,http://live.nctv.top/huya.php?id=21059588
@@ -2758,9 +2761,9 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 甄子丹,https://isus.cc/php/huya.php?id=11352935
 甄子丹,http://live.iill.top/huya.php?id=11352935
 电影_英叔,http://124.248.69.76:35455/huya/11342421
-电影_英叔,https://lbds.us.ci/11342421
 电影_黄渤,http://live.nctv.top/huya.php?id=11352876
 电影_黄渤,http://124.248.69.76:35455/huya/11352876
+电影_黄渤,https://lbds.us.ci/11352876
 电影_周星星,http://live.nctv.top/huya.php?id=11336587
 电影_周星星,http://124.248.69.76:35455/huya/11336587
 电影_周星星,http://www.xzbn.site:35455/huya/11336587
@@ -2769,6 +2772,7 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_洪金宝,http://live.nctv.top/huya.php?id=11279251
 电影_洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
 电影_洪金宝,http://124.248.69.76:35455/huya/11279251
+电影_洪金宝,https://lbds.us.ci/11279251
 电影_星爷,http://live.metshop.top/huya/11336587?cdn=alicdn
 电影_星爷,http://124.248.69.76:35455/huya/11342412
 电影_星爷,https://lbds.us.ci/11342412
@@ -2783,14 +2787,13 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_沈腾,https://lbds.us.ci/11601968
 电影_李连杰,http://live.nctv.top/huya.php?id=11342390
 电影_李连杰,http://124.248.69.76:35455/huya/11342390
-电影_李连杰,https://lbds.us.ci/11342390
 电影_梁家辉,http://live.nctv.top/huya.php?id=11342429
 电影_梁家辉,https://live.iill.top/huya/11342429
 电影_梁家辉,http://124.248.69.76:26781/huya/11342429
 电影_梁家辉,http://cdn.jdshipin.com:8880/huya.php?id=11342429
 电影_梁家辉,http://124.248.69.76:35455/huya/11342429
-电影_梁家辉,https://lbds.us.ci/11342429
 电影_刘德华,http://124.248.69.76:35455/huya/11342424
+电影_刘德华,https://lbds.us.ci/11342424
 电影_怪兽,http://live.nctv.top/huya.php?id=21059577
 电影_怪兽,https://live.iill.top/huya/21059577
 电影_怪兽,http://124.248.69.76:26781/huya/21059577
@@ -2828,7 +2831,6 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_功夫片,http://live.nctv.top/huya.php?id=11352941
 电影_功夫片,http://124.248.69.76:35455/huya/11352941
 电影_功夫片,http://www.xzbn.site:35455/huya/11352941
-电影_功夫片,https://lbds.us.ci/11352941
 电影_高能反转,http://124.248.69.76:35455/huya/11352887
 电影_高能反转,http://live.nctv.top/huya.php?id=11352887
 电影_高能反转,http://www.xzbn.site:35455/huya/11352887
@@ -2853,6 +2855,7 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_不挤影院,https://lbds.us.ci/11352897
 电影_武侠,http://live.nctv.top/huya.php?id=11342427
 电影_武侠,http://124.248.69.76:35455/huya/11342427
+电影_武侠,https://lbds.us.ci/11342427
 电影_黑帮片,http://live.nctv.top/huya.php?id=11336719
 电影_黑帮片,http://124.248.69.76:35455/huya/11336719
 电影_黑帮片,http://www.xzbn.site:35455/huya/11336719
@@ -2881,12 +2884,13 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_搞笑恐怖,http://live.nctv.top/huya.php?id=11601960
 电影_搞笑恐怖,http://124.248.69.76:35455/huya/11601960
 电影_搞笑恐怖,http://www.xzbn.site:35455/huya/11601960
+电影_搞笑恐怖,https://lbds.us.ci/11601960
 电影_枪战,http://live.nctv.top/huya.php?id=21059579
 电影_枪战,http://124.248.69.76:35455/huya/21059579
 电影_枪战,http://www.xzbn.site:35455/huya/21059579
-电影_枪战,https://lbds.us.ci/21059579
 电影_热血,http://live.nctv.top/huya.php?id=11352934
 电影_热血,http://www.xzbn.site:35455/huya/11352934
+电影_热血,https://lbds.us.ci/11352934
 电影_经典女神,http://live.nctv.top/huya.php?id=11352909
 电影_经典女神,http://www.xzbn.site:35455/huya/11352909
 电影_经典女神,https://lbds.us.ci/11352909
@@ -2920,7 +2924,6 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 电影_死神来了,https://live.iill.top/huya/11352903
 电影_死神来了,http://124.248.69.76:35455/huya/11352903
 电影_死神来了,http://www.xzbn.site:35455/huya/11352903
-电影_死神来了,https://lbds.us.ci/11352903
 电影_推荐,http://live.nctv.top/huya.php?id=11602041
 电影_推荐,http://www.xzbn.site:35455/huya/11602041
 电影_推荐,https://lbds.us.ci/11602041
@@ -3158,7 +3161,6 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 倚天屠龙记,http://www.xzbn.site:35455/huya/23734246
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://cdn.jdshipin.com:8880/huya.php?id=23734246
-倚天屠龙记,https://lbds.us.ci/23734246
 倚天屠龙记,http://cfss.cc/cdn/hy/11342403.flv
 倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
 倚天屠龙记,http://live.iill.top/huya.php?id=11342403
@@ -3233,7 +3235,6 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 寻秦记,http://43.138.170.29:35455/yy/1382749900
 寻秦记,,http://1.94.31.214:35455/yy/1382851591
 寻秦记,http://cdn.jdshipin.com:8880/huya.php?id=29465848
-寻秦记,https://lbds.us.ci/29465848
 寻秦记,http://cfss.cc/cdn/hy/23864973.flv
 寻秦记,http://live.iill.top/huya.php?id=23864973
 寻秦记,http://2.itv.nctv.top:54321/yy/1382749900#http://www.xzbn.site:35455/yy/1382749900
@@ -3391,7 +3392,6 @@ AMC电影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 大时代,http://www.xzbn.site:35455/huya/23865161
 大时代,http://cfss.cc/cdn/hy/23865161.flv
 大时代,http://cdn.jdshipin.com:8880/huya.php?id=23865161
-大时代,https://lbds.us.ci/23865161
 大时代,http://live.iill.top/huya.php?id=23865161
 大时代,http://alist.xicp.fun:35455/yy/1354930891#https://live.metshop.top/yy/1354930891#https://lunbo.freetv.top/yy/1354930891
 法证先锋,http://live.nctv.top/huya.php?id=23863804
@@ -4188,7 +4188,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 辽宁体育,http://113.236.17.12:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://61.243.161.199:9901/tsfile/live/1023_1.m3u8
 辽宁体育,http://tvbox6.com/tv/bfgd.php?id=611
-辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
@@ -4605,7 +4604,6 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 解说_小冉看电影,https://live.metshop.top/huya/17341907
 解说_小川侃电影,http://live.nctv.top/huya.php?id=15870999
 解说_小川侃电影,https://live.metshop.top/huya/15870999
-解说_小川侃电影,https://lbds.us.ci/15870999
 解说_恐怖电影解说,http://live.nctv.top/huya.php?id=16741179
 解说_恐怖电影解说,https://live.metshop.top/huya/16741179
 解说_扁豆看电影,http://live.nctv.top/huya.php?id=16028551
