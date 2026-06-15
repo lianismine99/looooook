@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260615 04:56,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260616 06:08,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -373,7 +373,6 @@ CCTV风云剧场,http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
 CCTV风云剧场,http://119.125.134.176:9901/tsfile/live/1042_1.m3u8
 CCTV风云剧场,http://60.10.167.88:808/hls/57/index.m3u8
 CCTV风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 CCTV风云剧场,http://192.151.150.154/live/fyjc.m3u8
 CCTV风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 CCTV风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
@@ -441,7 +440,6 @@ CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 CCTV风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 CCTV风云足球,http://122.228.104.230:9901/tsfile/live/1021_1.m3u8?key=txiptv
 CCTV高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CCTV高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
@@ -465,7 +463,6 @@ CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.1.192:5002
 CCTV风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le.m3u8
 CCTV风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
 CCTV风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 CCTV风云音乐,http://122.228.104.230:9901/tsfile/live/1019_1.m3u8?key=txiptv
 CCTV风云音乐,http://107.150.60.122/live/fyyy.m3u8
@@ -478,8 +475,8 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.1.190:5002
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 CCTV女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
+CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 CCTV怀旧剧场,http://xc.mfykeke.top:35455/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
@@ -502,7 +499,6 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://192.151.150.154/live/ysjp.m3u8
 CCTV央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
@@ -520,17 +516,17 @@ CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5248&tk=a0c4f6cfaba3
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7963&tk=e640d0a1bf70
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
 CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
-CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
 CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
 CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
 CCTV电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.1.194:5002
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
-CCTV电视指南,http://107.150.60.122/live/dszn.m3u8
 CCTV电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
+CCTV电视指南,http://107.150.60.122/live/dszn.m3u8
 CCTV老故事,http://www.wmviv.com/iptv/bc2t.php?id=lgs
 CCTV老故事,http://113.44.65.227:1234/884121956
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
@@ -573,9 +569,11 @@ CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
+CCTV8K,https://t.freetv.fun/live/cctv-8k.m3u8
+CCTV8K,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing-2.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing-4.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -2352,6 +2350,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -2919,8 +2918,8 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://live.nctv.top/douyu.php?id=4246519
 邵氏影院,http://www.xzbn.site:35455/douyu/4246519
-邵氏影院,https://goodiptv.club/douyu/4246519
 邵氏影院,http://www.goodiptv.club/douyu/4246519
+邵氏影院,https://goodiptv.club/douyu/4246519
 邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
@@ -3668,7 +3667,6 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 赵本山小品,http://jiaojirentv.top/2020/yy.php?id=1354936217
 赵本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 赵本山小品,http://iptv.jxpan.vip:18888/aio/douyu/9817716
-赵本山小品,https://goodiptv.club/douyu/9817716
 赵本山小品,http://1.94.31.214:35455/douyu/9817716
 赵本山小品,http://hulun.top:35455/douyu/9817716
 赵本山小品,http://allinone.netsite.cc/douyu/9817716
@@ -3676,6 +3674,7 @@ AMC电影台,https://t.freetv.fun/live/amcdian-ying.m3u8
 赵本山小品,http://120.78.6.151:8968/dy.php?id=9817716
 赵本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
 赵本山小品,http://tv.ximix.us/douyu/9817716
+赵本山小品,https://goodiptv.club/douyu/9817716
 
 
 NewTV,#genre#
@@ -4295,7 +4294,7 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
+风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
 魅力足球,http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
