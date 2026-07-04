@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260704 04:50,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260705 04:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -384,7 +384,6 @@ CCTV兵器科技,http://dassby.qqff.top:99/live/兵器科技/index.m3u8
 CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435
 CCTV兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 CCTV兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8
 CCTV兵器科技,http://60.10.139.113:8801/hls/72/index.m3u8
 CCTV兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
@@ -403,8 +402,8 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8
+CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,http://107.150.60.122/live/dyjc.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-2.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
@@ -443,9 +442,8 @@ CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 CCTV风云足球,http://60.10.139.113:8801/hls/69/index.m3u8
 CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
-CCTV高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+CCTV高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
@@ -459,7 +457,6 @@ CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://36.129.204.117:9003//hls/78/index.m3u8
 CCTV世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
-CCTV世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 CCTV世界地理,http://60.10.139.113:8801/hls/73/index.m3u8
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 CCTV世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
@@ -510,14 +507,12 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-CCTV央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8
 CCTV央视文化精品,http://60.10.139.113:8801/hls/80/index.m3u8
+CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
 CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
 CCTV国防军事,http://nas.hssvm.com:8888/udp/225.1.1.187:5002
 CCTV发现之旅,http://www.wmviv.com/iptv/bc2t.php?id=fxzl
@@ -529,9 +524,9 @@ CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5248&tk=a0c4f6cfaba3
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7963&tk=e640d0a1bf70
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
 CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
-CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
+CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
@@ -1842,6 +1837,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大综合,http://fm1077.serv00.net/Smart.php?id=badazhonghe
 八大综合,http://ip1.xiaomidadi.cn:8088/live/mQpfhtEPk6sSnO0S/hls.m3u8
+八大综合,https://t.freetv.fun/live/ba-da-zong-he.php
+八大综合,https://t.freetv.fun/live/ba-da-zong-he-1.php
 八大精彩,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv034/index.m3u8?proxy=true
 八大精彩,https://4gtv.dxjc.pp.ua/4gtv-4gtv034/index.m3u8
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
@@ -1861,7 +1858,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 八大精彩,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
 八大精彩,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv034&token=https://t.me/GPT_858
 八大精彩,https://test.946985.filegear-sg.me/proxy/9061feac2ccad080
-八大精彩,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
+八大精彩,https://t.freetv.fun/live/ba-da-jing-cai.m3u8
 八大综艺,https://4gtv.dxjc.pp.ua/4gtv-4gtv039/index.m3u8
 八大综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv039/index.m3u8?proxy=true
 八大综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv039/index.m3u8?proxy=true
@@ -1895,6 +1892,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
 三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+三立新闻,https://t.freetv.fun/live/san-li-xin-wen.php
+三立新闻,https://t.freetv.fun/live/san-li-xin-wen-1.php
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,http://ali.hlspull.yximgs.com/live/d4b4497ba78b7474f0d3f5688958d2f3.flv
 三立台湾,http://api.mytv666.top/api/hk.php?id=3431663838343031373566326636316465393566653637343436313266653666267469643d74762669643d3733
@@ -1906,11 +1905,15 @@ Now财经,https://yang-1989.eu.org/live/now-333
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立台湾,https://t.freetv.fun/live/san-li-tai-wan.php
+三立台湾,https://t.freetv.fun/live/san-li-tai-wan-1.php
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
 三立都会,http://ali.hlspull.yximgs.com/live/53ac6b9001ec3b6b190794a55e9ef523.flv
 三立都会,http://api.mytv666.top/api/hk.php?id=3862326632383437333863303830376562326363383463336662343764366335267469643d77696e74763132332669643d3736
 三立都会,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
 三立都会,http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+三立都会,https://t.freetv.fun/live/san-li-du-hui.php
+三立都会,https://t.freetv.fun/live/san-li-du-hui-1.php
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 三立综合,https://mao.ffmking888.dpdns.org/?id=5LiJ56uL57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 三立综合,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live207/index.m3u8?proxy=true
@@ -1964,6 +1967,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 中天综合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
 中天综合,http://rihou.cc:555/tv/中天综合
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
+中天综合,https://t.freetv.fun/live/zhong-tian-zong-he.php
+中天综合,https://t.freetv.fun/live/zhong-tian-zong-he-1.php
 中天亚洲,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv109/index.m3u8?proxy=true
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
@@ -2203,6 +2208,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森综合,http://fm1077.serv00.net/Smart.php?id=ettvzhonghe
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 东森综合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
+东森综合,https://t.freetv.fun/live/dong-sen-zong-he.php
+东森综合,https://t.freetv.fun/live/dong-sen-zong-he-1.php
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -2337,8 +2344,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 靖洋戏剧,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 靖洋戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
 靖洋戏剧,https://test.946985.filegear-sg.me/proxy/575625e186c53934
+靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1.m3u8
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju.php
-靖洋戏剧,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
 靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
@@ -2500,6 +2507,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 非凡新闻,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=1IEf8v&tk=SLK5QjnsRiya
+非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen.php
+非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-1.php
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
