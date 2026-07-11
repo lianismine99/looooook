@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/CCSH/IPTV/raw/refs/heads/main/e.xml.gz"
-#EXTINF:-1  tvg-name="20260711 04:58" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20260711 04:58.png"  group-title="更新时间",20260711 04:58
+#EXTINF:-1  tvg-name="20260712 04:36" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20260712 04:36.png"  group-title="更新时间",20260712 04:36
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -742,7 +742,7 @@ http://60.10.167.88:808/hls/57/index.m3u8
 #EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png"  group-title="央视频道",CCTV风云剧场
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png"  group-title="央视频道",CCTV风云剧场
-http://192.151.150.154/live/fyjc.m3u8
+http://173.208.212.130:8181/720p/fyjc.m3u8
 #EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png"  group-title="央视频道",CCTV风云剧场
 http://60.10.139.113:8801/hls/66/index.m3u8
 #EXTINF:-1  tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV风云剧场.png"  group-title="央视频道",CCTV风云剧场
@@ -828,6 +828,8 @@ http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
+http://207.56.13.146:81/cdnlive/ystq.m3u8
+#EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 #EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
 http://107.150.60.122/live/ystq.m3u8
@@ -874,8 +876,6 @@ http://207.56.13.146:81/cdnlive/fyzq.m3u8
 #EXTINF:-1  tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png"  group-title="央视频道",CCTV高尔夫网球
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png"  group-title="央视频道",CCTV高尔夫网球
-http://192.151.150.154/live/gefwq.m3u8
-#EXTINF:-1  tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png"  group-title="央视频道",CCTV高尔夫网球
 http://207.56.13.146:81/cdnlive/gefwq.m3u8
 #EXTINF:-1  tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV高尔夫网球.png"  group-title="央视频道",CCTV高尔夫网球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
@@ -905,6 +905,8 @@ http://36.129.204.117:9003//hls/78/index.m3u8
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png"  group-title="央视频道",CCTV世界地理
 http://60.10.139.113:8801/hls/73/index.m3u8
+#EXTINF:-1  tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png"  group-title="央视频道",CCTV世界地理
+http://207.56.13.146:81/cdnlive/sjdl.m3u8
 #EXTINF:-1  tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png"  group-title="央视频道",CCTV世界地理
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 #EXTINF:-1  tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV世界地理.png"  group-title="央视频道",CCTV世界地理
@@ -1002,13 +1004,9 @@ http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
-http://192.151.150.154/live/ysjp.m3u8
-#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
-http://173.208.212.130:8181/720p/ysjp.m3u8
-#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
 http://60.10.139.113:8801/hls/80/index.m3u8
+#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
 http://107.150.60.122/live/ysjp.m3u8
 #EXTINF:-1  tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV卫生健康.png"  group-title="央视频道",CCTV卫生健康
@@ -1042,9 +1040,9 @@ http://8.138.7.223/tv/migu3.php?id=fxzl
 #EXTINF:-1  tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV发现之旅.png"  group-title="央视频道",CCTV发现之旅
 http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV发现之旅.png"  group-title="央视频道",CCTV发现之旅
-http://t.061899.xyz/tl/tl.php?id=fxzl
-#EXTINF:-1  tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV发现之旅.png"  group-title="央视频道",CCTV发现之旅
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+#EXTINF:-1  tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV发现之旅.png"  group-title="央视频道",CCTV发现之旅
+http://t.061899.xyz/tl/tl.php?id=fxzl
 #EXTINF:-1  tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV电视指南.png"  group-title="央视频道",CCTV电视指南
 http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 #EXTINF:-1  tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV电视指南.png"  group-title="央视频道",CCTV电视指南
@@ -2379,8 +2377,6 @@ http://tvbox6.icu/tv/amlh.m3u8
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4495&tk=e640d0a1bf70
 #EXTINF:-1  tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/莲花卫视.png"  group-title="卫视频道",莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
-#EXTINF:-1  tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/莲花卫视.png"  group-title="卫视频道",莲花卫视
-http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1  tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png"  group-title="卫视频道",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1  tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/西藏卫视.png"  group-title="卫视频道",西藏卫视
@@ -3603,8 +3599,6 @@ http://fm1077.serv00.net/Smart.php?id=badadrama
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1  tvg-name="八大戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大戏剧.png"  group-title="港澳台",八大戏剧
 http://ip1.xiaomidadi.cn:8088/live/jOj7LMOIfjOCcTBL/hls.m3u8
-#EXTINF:-1  tvg-name="八大戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大戏剧.png"  group-title="港澳台",八大戏剧
-https://t.freetv.fun/live/ba-da-xi-ju.php
 #EXTINF:-1  tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大第一.png"  group-title="港澳台",八大第一
 http://ali.hlspull.yximgs.com/live/52e45cd99ab832097a2b1d852adb5bbb.flv
 #EXTINF:-1  tvg-name="八大第一" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大第一.png"  group-title="港澳台",八大第一
@@ -3761,8 +3755,6 @@ http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.
 http://108.181.20.197/livehttpplay?channel_id=10126
 #EXTINF:-1  tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立新闻.png"  group-title="港澳台",三立新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-#EXTINF:-1  tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立新闻.png"  group-title="港澳台",三立新闻
-https://t.freetv.fun/live/san-li-xin-wen.php
 #EXTINF:-1  tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立台湾.png"  group-title="港澳台",三立台湾
 https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 #EXTINF:-1  tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立台湾.png"  group-title="港澳台",三立台湾
@@ -3785,8 +3777,6 @@ https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 #EXTINF:-1  tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立台湾.png"  group-title="港澳台",三立台湾
 https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
-#EXTINF:-1  tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立台湾.png"  group-title="港澳台",三立台湾
-https://t.freetv.fun/live/san-li-tai-wan-1.php
 #EXTINF:-1  tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立都会.png"  group-title="港澳台",三立都会
 http://live4play.uk/livehttpplay?channel_id=20100
 #EXTINF:-1  tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立都会.png"  group-title="港澳台",三立都会
@@ -3824,11 +3814,9 @@ http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=
 #EXTINF:-1  tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立综合.png"  group-title="港澳台",三立综合
 http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=vrp4No&tk=SLK5QjnsRiya
 #EXTINF:-1  tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立综合.png"  group-title="港澳台",三立综合
-https://t.freetv.fun/live/san-li-zong-he-1.php
+https://t.freetv.fun/live/san-li-zong-he.m3u8
 #EXTINF:-1  tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立综合.png"  group-title="港澳台",三立综合
 https://t.freetv.fun/live/san-li-zong-he-he.m3u8
-#EXTINF:-1  tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三立综合.png"  group-title="港澳台",三立综合
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
 #EXTINF:-1  tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天新闻.png"  group-title="港澳台",中天新闻
 https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 #EXTINF:-1  tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天新闻.png"  group-title="港澳台",中天新闻
@@ -4507,6 +4495,8 @@ https://hls-gateway.vpstv.net/streams/476994.m3u8
 http://fm1077.serv00.net/Smart.php?id=ettvdrama
 #EXTINF:-1  tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森戏剧.png"  group-title="港澳台",东森戏剧
 https://smt.1678520.xyz/163189/f60cd3f14b06dabc
+#EXTINF:-1  tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森戏剧.png"  group-title="港澳台",东森戏剧
+https://t.freetv.fun/live/dong-sen-xi-ju-1.php
 #EXTINF:-1  tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png"  group-title="港澳台",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1  tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/华视.png"  group-title="港澳台",华视
@@ -4733,6 +4723,8 @@ http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636
 http://rihou.cc:555/tv/[Pd]龙华戏剧
 #EXTINF:-1  tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华戏剧.png"  group-title="港澳台",龙华戏剧
 http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+#EXTINF:-1  tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华戏剧.png"  group-title="港澳台",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1  tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华电影.png"  group-title="港澳台",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1  tvg-name="龙华电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华电影.png"  group-title="港澳台",龙华电影
@@ -4881,12 +4873,14 @@ https://tv.iill.top/4gtv/209
 https://hls-gateway.vpstv.net/streams/477082.m3u8
 #EXTINF:-1  tvg-name="大爱电视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱电视.png"  group-title="港澳台",大爱电视
 https://t.freetv.fun/live/da-ai-dian-shi.m3u8
+#EXTINF:-1  tvg-name="大爱电视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱电视.png"  group-title="港澳台",大爱电视
+https://t.freetv.fun/live/da-ai-dian-shi-1.m3u8
 #EXTINF:-1  tvg-name="大爱二台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱二台.png"  group-title="港澳台",大爱二台
 https://hls-gateway.vpstv.net/streams/493133.m3u8
 #EXTINF:-1  tvg-name="大爱二台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱二台.png"  group-title="港澳台",大爱二台
 https://t.freetv.fun/live/da-ai-er-6.m3u8
 #EXTINF:-1  tvg-name="大爱二台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱二台.png"  group-title="港澳台",大爱二台
-https://t.freetv.fun/live/da-ai-er.m3u8
+https://t.freetv.fun/live/da-ai-er-1.m3u8
 #EXTINF:-1  tvg-name="大爱二台" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/大爱二台.png"  group-title="港澳台",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1  tvg-name="环球电视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/环球电视.png"  group-title="港澳台",环球电视
@@ -5039,8 +5033,6 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 #EXTINF:-1  tvg-name="耀才财经" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/耀才财经.png"  group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
-#EXTINF:-1  tvg-name="耀才财经" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/耀才财经.png"  group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/寰宇新闻.png"  group-title="港澳台",寰宇新闻
 https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 #EXTINF:-1  tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/寰宇新闻.png"  group-title="港澳台",寰宇新闻
@@ -8524,9 +8516,9 @@ http://61.243.161.199:9901/tsfile/live/1122_1.m3u8
 #EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
 http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-#EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 #EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1  tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/风云足球.png"  group-title="体育频道",风云足球
@@ -9814,13 +9806,13 @@ https://t.freetv.fun/live/hai-mian-bao-bao-1.flv
 #EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
 http://8.218.190.107:80/yy/1382735568
 #EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
+http://124.248.69.76:26781/douyu/5907076
+#EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
 http://61.133.118.228:5001/yy/1382735568
 #EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
 https://yylunbo.ottiptv.cc/yy/1382735568
-#EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
-http://124.248.69.76:26781/douyu/5907076
 #EXTINF:-1  tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/漫画解说.png"  group-title="儿童频道",漫画解说
 http://alist.xicp.fun:35455/yy/1382735568
 #EXTINF:-1  tvg-name="熊出没之探险日记S1-国漫" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/熊出没之探险日记S1-国漫.png"  group-title="儿童频道",熊出没之探险日记S1-国漫
@@ -9844,9 +9836,9 @@ https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1  tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/猫和老鼠.png"  group-title="儿童频道",猫和老鼠
 https://cdn-3.ttvb.eu.org/huya/11352879
 #EXTINF:-1  tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/猫和老鼠.png"  group-title="儿童频道",猫和老鼠
-http://cdn.jdshipin.com:8880/huya.php?id=11352879
-#EXTINF:-1  tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/猫和老鼠.png"  group-title="儿童频道",猫和老鼠
 https://live.metshop.top/huya/11352879
+#EXTINF:-1  tvg-name="猫和老鼠" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/猫和老鼠.png"  group-title="儿童频道",猫和老鼠
+http://cdn.jdshipin.com:8880/huya.php?id=11352879
 #EXTINF:-1  tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/经典动漫.png"  group-title="儿童频道",经典动漫
 http://61.133.118.228:5001/yy/24180320
 #EXTINF:-1  tvg-name="航海王「动漫」" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/航海王「动漫」.png"  group-title="儿童频道",航海王「动漫」
@@ -9950,9 +9942,9 @@ https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
 #EXTINF:-1  tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天卡通.png"  group-title="儿童频道",靖天卡通
 http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDE2OyBWMjM1MkEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzEuMC42Nzc4LjIwMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiBWaXZvQnJvd3Nlci8yOC4wLjAuMA==&hls=aHR0cDovLzguMjE4Ljg0LjM6ODg4NS9saXZlL05sQWhnZFI0NzVfcDlwSGVLRTFHMXJJTG9WbDE4UXFlMzZqVXNpV3FZNVMyNkxRek5BLTgybzBMU2lObzEzT0dXSmxMUnQxYjRUMzdaUGYyMUhNNTZJY1JXVjBQeFdXSy1CNWNhU25jaGZZcTZSUFRGMUdOeUE0WFhhN1N0OHBad1ppZEVPMVB1OGh4Mi0zUjZaejc4UUJPd1pncXgyeE96T0NEajR0RmI4aVZCeFgycC1GRk5tVXRUU0hHVmZHTjctSmsxREVHR0lwMEloNXhtOERvQ3JIc3RJR0ZsYlNfRnNHLUExcHJDeWdqc1RaY1p6NUNRTnlOX1RzcU03QlJQSFhlQnFtS2N2T2dhU0d0SEluc1JBLm0zdTg/dT0xNzU3MTIzODE5
 #EXTINF:-1  tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天卡通.png"  group-title="儿童频道",靖天卡通
-https://t.freetv.fun/live/jing-tian-qia-tong-1.php
-#EXTINF:-1  tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天卡通.png"  group-title="儿童频道",靖天卡通
 https://t.freetv.fun/live/jing-tian-qia-tong.m3u8
+#EXTINF:-1  tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天卡通.png"  group-title="儿童频道",靖天卡通
+https://t.freetv.fun/live/jing-tian-qia-tong-1.m3u8
 #EXTINF:-1  tvg-name="靖洋卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋卡通.png"  group-title="儿童频道",靖洋卡通
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
 #EXTINF:-1  tvg-name="靖洋卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋卡通.png"  group-title="儿童频道",靖洋卡通
@@ -10107,8 +10099,6 @@ https://stream1.freetv.fun/dong-sen-mei-zhou-wei-shi-1.m3u8
 http://ali.hlspull.yximgs.com/live/09b65f7c965d400239589e4c1b43acf9.flv
 #EXTINF:-1  tvg-name="东森美洲卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲卫视.png"  group-title="国际台",东森美洲卫视
 http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲卫视
-#EXTINF:-1  tvg-name="东森美洲卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲卫视.png"  group-title="国际台",东森美洲卫视
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1  tvg-name="半·新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/半·新闻.png"  group-title="国际台",半·新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1  tvg-name="新加坡国际" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新加坡国际.png"  group-title="国际台",新加坡国际
@@ -10152,21 +10142,21 @@ http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1482&tk=a0c4f6cfaba3
 #EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-https://live.264788.xyz/channel/shijiedili?streamid=4db73bb90b7af6eb8506496390bb0d93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-http://dassby.qqff.top:99/live/世界地理/index.m3u8
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
-http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
-#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
 http://207.56.13.146:81/cdnlive/sjdl.m3u8
 #EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
 http://173.208.212.130:8181/720p/sjdl.m3u8
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+https://live.264788.xyz/channel/shijiedili?streamid=4db73bb90b7af6eb8506496390bb0d93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+http://dassby.qqff.top:99/live/世界地理/index.m3u8
+#EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
+https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
 #EXTINF:-1  tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/世界地理.png"  group-title="纪录片",世界地理
 http://183.11.239.36:808/hls/11/index.m3u8
 #EXTINF:-1  tvg-name="人与自然" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/人与自然.png"  group-title="纪录片",人与自然
@@ -10194,13 +10184,11 @@ http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&
 #EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
 http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
 #EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
-https://t.freetv.fun/live/dong-wu-xing-qiu.php
+https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
 #EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
-https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
-#EXTINF:-1  tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/动物星球.png"  group-title="纪录片",动物星球
-https://t.freetv.fun/live/dong-wu-xing-qiu-2.m3u8
+https://t.freetv.fun/live/dong-wu-xing-qiu.m3u8
 #EXTINF:-1  tvg-name="单挑荒野第一季" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/单挑荒野第一季.png"  group-title="纪录片",单挑荒野第一季
 http://alist.xicp.fun:35455/yy/1354933535
 #EXTINF:-1  tvg-name="单挑荒野第一季" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/单挑荒野第一季.png"  group-title="纪录片",单挑荒野第一季
@@ -10385,6 +10373,8 @@ http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0770&tk=e640d0a1bf70
 #EXTINF:-1  tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森戏剧.png"  group-title="戏曲频道",东森戏剧
 https://hls-gateway.vpstv.net/streams/476994.m3u8
+#EXTINF:-1  tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森戏剧.png"  group-title="戏曲频道",东森戏剧
+https://t.freetv.fun/live/dong-sen-xi-ju-1.php
 #EXTINF:-1  tvg-name="八大戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大戏剧.png"  group-title="戏曲频道",八大戏剧
 http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
 #EXTINF:-1  tvg-name="八大戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/八大戏剧.png"  group-title="戏曲频道",八大戏剧
@@ -10494,19 +10484,17 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1  tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华戏剧.png"  group-title="戏曲频道",龙华戏剧
 http://43.251.226.89:8080/play/913.m3u8
 #EXTINF:-1  tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华戏剧.png"  group-title="戏曲频道",龙华戏剧
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2683&tk=e640d0a1bf70
-#EXTINF:-1  tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/龙华戏剧.png"  group-title="戏曲频道",龙华戏剧
-http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
+https://hls-gateway.vpstv.net/streams/476293.m3u8
 #EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
 http://111.22.153.159:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
 http://home.wwang.pw:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
-http://t.061899.xyz/tl/tl.php?id=qcxj
-#EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9763&tk=e503191f8e20
 #EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3074&tk=b53028476470
+#EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
+http://t.061899.xyz/tl/tl.php?id=qcxj
 #EXTINF:-1  tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/七彩戏剧.png"  group-title="上海频道",七彩戏剧
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0866&tk=e640d0a1bf70
 #EXTINF:-1  tvg-name="上海外语" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/上海外语.png"  group-title="上海频道",上海外语
@@ -11942,11 +11930,11 @@ https://t.freetv.fun/live/4knan-guo-du-shi.m3u8
 #EXTINF:-1  tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南国都市.png"  group-title="广东频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1  tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南国都市.png"  group-title="广东频道",南国都市
-https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6594e9d5&txSecret=e783742d1233ae402ec4566b8537ca17
+https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=659a5130&txSecret=79b02fdfa77e39b5f5b86cd4bb848a0e
 #EXTINF:-1  tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南国都市.png"  group-title="广东频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
 #EXTINF:-1  tvg-name="南国都市" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南国都市.png"  group-title="广东频道",南国都市
-https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=659a5130&txSecret=79b02fdfa77e39b5f5b86cd4bb848a0e
+https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6594e9d5&txSecret=e783742d1233ae402ec4566b8537ca17
 #EXTINF:-1  tvg-name="广东文化" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东文化.png"  group-title="广东频道",广东文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1  tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/广东新闻.png"  group-title="广东频道",广东新闻
@@ -12486,9 +12474,9 @@ http://183.11.239.36:808/hls/157/index.m3u8
 #EXTINF:-1  tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png"  group-title="广东频道",深圳少儿
 http://125.89.163.44:8888/udp/239.77.1.244:5146
 #EXTINF:-1  tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png"  group-title="广东频道",深圳少儿
-http://1.94.31.214/live/live9/channel/js/k-web/PLTV/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=szse
-#EXTINF:-1  tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png"  group-title="广东频道",深圳少儿
 http://gmxw.7766.org:808/hls/157/index.m3u8
+#EXTINF:-1  tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png"  group-title="广东频道",深圳少儿
+http://1.94.31.214/live/live9/channel/js/k-web/PLTV/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=szse
 #EXTINF:-1  tvg-name="深圳电视剧频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳电视剧频道.png"  group-title="广东频道",深圳电视剧频道
 http://119.131.24.84:9003/udp/239.77.1.7:5146
 #EXTINF:-1  tvg-name="深圳电视剧频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳电视剧频道.png"  group-title="广东频道",深圳电视剧频道
@@ -12524,11 +12512,11 @@ http://119.131.24.84:9003/udp/239.77.1.242:5146
 #EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳财经生活.png"  group-title="广东频道",深圳财经生活
 http://183.11.239.36:808/hls/151/index.m3u8
 #EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳财经生活.png"  group-title="广东频道",深圳财经生活
-http://116.77.239.26:44300/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳财经生活.png"  group-title="广东频道",深圳财经生活
 http://gmxw.7766.org:808/hls/151/index.m3u8
 #EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳财经生活.png"  group-title="广东频道",深圳财经生活
 http://1.94.31.214/live/live9/channel/js/k-web/PLTV/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=szcjsh
+#EXTINF:-1  tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳财经生活.png"  group-title="广东频道",深圳财经生活
+http://116.77.239.26:44300/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1  tvg-name="深圳都市频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳都市频道.png"  group-title="广东频道",深圳都市频道
 http://119.131.24.84:9003/udp/239.77.1.34:5146
 #EXTINF:-1  tvg-name="深圳都市频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳都市频道.png"  group-title="广东频道",深圳都市频道
@@ -13324,13 +13312,25 @@ https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-5.m3u8
 #EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-6.m3u8
 #EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-7.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-8.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-9.m3u8
 #EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-10.m3u8
 #EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
-https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-11.m3u8
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-12.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-13.m3u8
 #EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-14.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-15.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-16.m3u8
+#EXTINF:-1  tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/温州经济科教.png"  group-title="浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-17.m3u8
 #EXTINF:-1  tvg-name="湖州公共" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖州公共.png"  group-title="浙江频道",湖州公共
 https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 #EXTINF:-1  tvg-name="湖州公共" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖州公共.png"  group-title="浙江频道",湖州公共
@@ -13571,8 +13571,6 @@ http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he.m3u8
 #EXTINF:-1  tvg-name="衢江新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/衢江新闻综合.png"  group-title="浙江频道",衢江新闻综合
 https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
-#EXTINF:-1  tvg-name="衢江新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/衢江新闻综合.png"  group-title="浙江频道",衢江新闻综合
-https://t.freetv.fun/live/qu-jiang-xin-wen-zong-he-3.m3u8
 #EXTINF:-1  tvg-name="诸暨新闻" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/诸暨新闻.png"  group-title="浙江频道",诸暨新闻
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1  tvg-name="诸暨新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/诸暨新闻综合.png"  group-title="浙江频道",诸暨新闻综合
@@ -14092,11 +14090,11 @@ http://8.138.7.223/tv/migu3.php?id=njkj
 #EXTINF:-1  tvg-name="南京教科" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png"  group-title="江苏频道",南京教科
 http://115.190.247.176:1111/838153729
 #EXTINF:-1  tvg-name="南京教科" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png"  group-title="江苏频道",南京教科
-http://116.52.173.34:1234/838153729
-#EXTINF:-1  tvg-name="南京教科" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png"  group-title="江苏频道",南京教科
 http://123.113.205.253:3000/838153729
 #EXTINF:-1  tvg-name="南京教科" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png"  group-title="江苏频道",南京教科
 http://47.104.178.59:3566/838153729
+#EXTINF:-1  tvg-name="南京教科" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京教科.png"  group-title="江苏频道",南京教科
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20260702160212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=171.8.79.254&SecurityKey=20260702160212&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ec27654cc59e4e8902d591291af8a4a1&sv=10004&ct=android
 #EXTINF:-1  tvg-name="南京新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京新闻综合.png"  group-title="江苏频道",南京新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226311/index.m3u8
 #EXTINF:-1  tvg-name="南京新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南京新闻综合.png"  group-title="江苏频道",南京新闻综合
@@ -14160,17 +14158,15 @@ http://8.138.7.223/tv/dl/jstv.php?id=nt1
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
 http://zjtv-wshls.homecdn.com/live/7cc9.m3u8
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
-http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260711040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260711040214&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=616bf922e07a51e0284bf72def94b45d&sv=10004&ct=android
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260712040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260712040233&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c60893bafadf3ee44be82eafaabd98c4&sv=10004&ct=android
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
 http://115.190.247.176:1111/955227985
-#EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
-http://116.52.173.34:1234/955227985
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
 http://123.113.205.253:3000/955227985
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
 http://47.104.178.59:3566/955227985
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260710080237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260710080237&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41f452bd600a3c823a7585bef8b1b48c&sv=10004&ct=android
+http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20260711080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=171.8.79.254&SecurityKey=20260711080214&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aeab98bcd12a0c958f5379a7ea41f259&sv=10004&ct=android
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
 https://t.freetv.fun/live/nan-tong-xin-wen-zong-he-1.m3u8
 #EXTINF:-1  tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/南通新闻综合.png"  group-title="江苏频道",南通新闻综合
@@ -14350,13 +14346,13 @@ http://8.138.7.223/tv/migu3.php?id=haxwzh
 #EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
 http://tvbox6.icu/tv/migu.php?id=haxwzh
 #EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
-http://mgsp-hs2.live.miguvideo.com:8088/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260711040213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260711040213&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cfc3fb3564942de3857e360a0bc83c9d&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20260712040232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=171.8.79.254&SecurityKey=20260712040232&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ece45c5b69eb9372d1c0385991f334a&sv=10004&ct=android
 #EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
 http://115.190.247.176:1111/639731826
 #EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
-http://116.52.173.34:1234/639731826
-#EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
 http://123.113.205.253:3000/639731826
+#EXTINF:-1  tvg-name="淮安新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/淮安新闻综合.png"  group-title="江苏频道",淮安新闻综合
+http://47.104.178.59:3566/639731826
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=202602100802294dfcf710e5ba41eaac5f20d66ba20fc3&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260210080229&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=218.28.233.106&SecurityKey=20260210080229&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3c0e486befe09ed894db188ab0f17a68
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
@@ -14374,21 +14370,19 @@ https://mgtv.ottiptv.cc/mg/639737327.m3u8?userid=5559462299&sign=acb20ca594d40f6
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae5747804d493ab7b1100069e485b78d3cb91c0fb0dbd92aa90a6157d7066e5b90780fabf5e150e17ebb9bc72b8bb18f43c5acddd1c0fd4d1904a99210aa962135
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260711040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260711040214&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=81d1098e6c632aadfde6840471e7094e&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260712040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260712040233&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=19fb88d043ca421bb5b558014c718488&sv=10004&ct=android
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 http://115.190.247.176:1111/639737327
-#EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
-http://116.52.173.34:1234/639737327
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 http://123.113.205.253:3000/639737327
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 http://47.104.178.59:3566/639737327
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260710040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260710040233&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c629d2bf3ed9b577c8b2f300acd20758&sv=10004&ct=android
-#EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260710080237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260710080237&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3b3403c7098eb33a481522d27ed90e7&sv=10004&ct=android
-#EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 http://hlszymgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260702160217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260702160217&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cbad900876fd3e49cb4fa3c76a7a3599&sv=10004&ct=android
+#EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260711040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260711040214&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=81d1098e6c632aadfde6840471e7094e&sv=10004&ct=android
+#EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20260711080215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=171.8.79.254&SecurityKey=20260711080215&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ee979ba7d0eae54d120e6894b0ff8319&sv=10004&ct=android
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
 https://t.freetv.fun/live/li-shui-xin-wen-zong-he-3.m3u8
 #EXTINF:-1  tvg-name="溧水新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/溧水新闻综合.png"  group-title="江苏频道",溧水新闻综合
@@ -15096,15 +15090,13 @@ http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
 http://115.190.247.176:1111/956909356
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
-http://116.52.173.34:1234/956909356
-#EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
 http://123.113.205.253:3000/956909356
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
 http://47.104.178.59:3566/956909356
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260710040227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260710040227&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3d0789d5c7ed0506ffc43dfc67a6df2&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260711040208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260711040208&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=397c381fec6ff7e8c9ec5d5ec9f8be0f&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260710080231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260710080231&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0f4d57b13bda2a51f83181ffbce1cbe1&sv=10004&ct=android
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20260711080208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=171.8.79.254&SecurityKey=20260711080208&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0f297b186cecd1709c444a8cfaa73550&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
 https://t.freetv.fun/live/shan-xi-ti-yu-xiu-xian.m3u8
 #EXTINF:-1  tvg-name="陕西体育休闲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西体育休闲.png"  group-title="陕西频道",陕西体育休闲
@@ -15142,15 +15134,13 @@ https://t.freetv.fun/live/shan-xi-xin-wen-zi-xun.m3u8
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
 http://115.190.247.176:1111/956909289
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
-http://116.52.173.34:1234/956909289
-#EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
 http://123.113.205.253:3000/956909289
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
 http://47.104.178.59:3566/956909289
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260710040234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260710040234&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a07ec56524d9d8149a41beabf130ecdd&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260711080215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260711080215&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0d836a6259e69f9570d22ff609cef44b&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260710080238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260710080238&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f7d599f652d5e2b37d15c799ea4da430&sv=10004&ct=android
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20260711040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=171.8.79.254&SecurityKey=20260711040215&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f382dcb74775264c036f81631cf3e094&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西新闻资讯" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西新闻资讯.png"  group-title="陕西频道",陕西新闻资讯
 https://t.freetv.fun/live/shan-xi-xin-wen-zi-xun-1.m3u8
 #EXTINF:-1  tvg-name="陕西生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西生活.png"  group-title="陕西频道",陕西生活
@@ -15180,17 +15170,15 @@ http://112.46.105.20:8009/hls/19/index.m3u8
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
 http://115.190.247.176:1111/956909358
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
-http://116.52.173.34:1234/956909358
-#EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
 http://123.113.205.253:3000/956909358
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
 http://47.104.178.59:3566/956909358
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260710040233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260710040233&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=41a8ee88080d93c0101bcffe16fae1e8&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260711040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260711040214&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0077b95dfe21fee78589be273064fad9&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260710080238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260710080238&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3910032db04b9e979d1287fff6756547&sv=10004&ct=android
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20260711080215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=171.8.79.254&SecurityKey=20260711080215&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=78c09719126aea8bd53c20198afa0f3b&sv=10004&ct=android
 #EXTINF:-1  tvg-name="陕西都市青春" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/陕西都市青春.png"  group-title="陕西频道",陕西都市青春
-https://t.freetv.fun/live/shan-xi-du-shi-qing-chun-1.m3u8
+https://t.freetv.fun/live/shan-xi-du-shi-qing-chun.m3u8
 #EXTINF:-1  tvg-name="万荣综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/万荣综合.png"  group-title="山西频道",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
 #EXTINF:-1  tvg-name="五台综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/五台综合.png"  group-title="山西频道",五台综合
@@ -16663,8 +16651,6 @@ https://stream.hrbtv.net/yspd/sd/live.m3u8
 https://t.freetv.fun/live/ha-er-bin-ying-shi.m3u8
 #EXTINF:-1  tvg-name="哈尔滨影视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/哈尔滨影视.png"  group-title="黑龙江频道",哈尔滨影视
 https://t.freetv.fun/live/ha-er-bin-ying-shi-1.m3u8
-#EXTINF:-1  tvg-name="哈尔滨影视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/哈尔滨影视.png"  group-title="黑龙江频道",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1  tvg-name="哈尔滨影视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/哈尔滨影视.png"  group-title="黑龙江频道",哈尔滨影视
 https://t.freetv.fun/live/ha-er-bin-ying-shi-4.m3u8
 #EXTINF:-1  tvg-name="哈尔滨新闻综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/哈尔滨新闻综合.png"  group-title="黑龙江频道",哈尔滨新闻综合
