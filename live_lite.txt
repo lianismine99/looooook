@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260716 04:46,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260717 04:42,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -400,8 +400,8 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8
 CCTV第一剧场,http://207.56.13.146:81/cdnlive/dyjc.m3u8
+CCTV第一剧场,http://60.10.139.113:8801/hls/65/index.m3u8
 CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,http://107.150.60.122/live/dyjc.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-2.m3u8
@@ -476,7 +476,6 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.1.190:5002
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 CCTV怀旧剧场,http://xc.mfykeke.top:35455/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
@@ -500,8 +499,8 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 CCTV央视文化精品,http://60.10.139.113:8801/hls/80/index.m3u8
+CCTV央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
@@ -539,8 +538,8 @@ CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2166&tk=2aca1ad9a849
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7412&tk=a0c4f6cfaba3
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8595&tk=e503191f8e20
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
-CCTV老故事,http://60.10.139.113:8801/hls/74/index.m3u8
 CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
+CCTV老故事,http://60.10.139.113:8801/hls/74/index.m3u8
 CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
@@ -571,13 +570,12 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
-CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8
 CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8hd.m3u8
-CCTV8K,https://t.freetv.fun/live/cctv-8hd-1.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8hd-2.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8kchao-gao-qing-2.m3u8
 CCTV8K,https://t.freetv.fun/live/cctv-8hd-3.m3u8
@@ -1893,11 +1891,14 @@ Now财经,https://yang-1989.eu.org/live/now-333
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立台湾,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
 三立台湾,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立台湾,https://t.freetv.fun/live/san-li-tai-wan.flv
 三立都会,http://live4play.uk/livehttpplay?channel_id=20100
 三立都会,http://ali.hlspull.yximgs.com/live/53ac6b9001ec3b6b190794a55e9ef523.flv
 三立都会,http://api.mytv666.top/api/hk.php?id=3862326632383437333863303830376562326363383463336662343764366335267469643d77696e74763132332669643d3736
 三立都会,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
 三立都会,http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+三立都会,http://bl02.pedrollo.org/live/Dt52PetyfwxXwTZsTIIRP0JI6v7oURDfHbUhqCHeX0PzY.flv
+三立都会,https://t.freetv.fun/live/san-li-du-hui.flv
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 三立综合,https://mao.ffmking888.dpdns.org/?id=5LiJ56uL57ac5ZCI5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 三立综合,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live207/index.m3u8?proxy=true
@@ -2190,6 +2191,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森综合,http://fm1077.serv00.net/Smart.php?id=ettvzhonghe
 东森综合,http://iptv.4666888.xyz/iptv2A.php?id=58
 东森综合,http://ip1.xiaomidadi.cn:8088/live/KMn24bon5j3PxYY2/hls.m3u8
+东森综合,http://bl02.pedrollo.org/live/VzC8u0opjvYHLFQvIXBxZ3Jdkazee0bNnHoLwXAivbGUu.flv
+东森综合,https://t.freetv.fun/live/dong-sen-zong-he.flv
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
@@ -2361,6 +2364,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 龙华戏剧,http://api.mytv666.top/api/hk.php?id=6335633465646430646463353232613834343839636133383266363636333161267469643d74762669643d313336
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
 龙华戏剧,http://fm1077.serv00.net/Smart.php?id=lunghuaxiju_twn
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,https://test.946985.filegear-sg.me/proxy/0cd15ef7dac65487
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
@@ -3641,7 +3646,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 相声小品,http://106.53.99.30/tv/gitv.php?id=0015
 相声小品,http://live.nctv.top/douyu1.php?id=9286868
 经典小品,https://live.ottiptv.cc/douyu/9067836
-经典小品,https://goodiptv.club/douyu/9067836
 经典小品,http://59.47.74.33:35455/douyu/9067836
 经典小品,http://1.94.31.214:35455/huya/11352938
 经典小品,http://hulun.top:35455/douyu/11352938
