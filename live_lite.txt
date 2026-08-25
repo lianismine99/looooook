@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260825 04:16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260826 04:15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -396,9 +396,9 @@ CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-2.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
+CCTV第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-1.m3u8
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -1581,11 +1581,11 @@ TVB翡翠,http://api.mytv666.top/api/hk.php?id=613337306230633063643632376638663
 TVB翡翠,http://api.mytv666.top/api/hk.php?id=3262653732393564383135306138663636396562333131366461316635356432267469643d77696e74763132332669643d3230
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 TVB翡翠,https://o11.163189.xyz/stream/tvb/fct/
+TVB翡翠,https://hls-gateway.vpstv.net/streams/476929.m3u8
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-TVB翡翠,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 TVB明珠,http://bxtv.3a.ink/api.php?id=mz
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
@@ -1654,6 +1654,7 @@ TVB娱乐新闻,http://api.mytv666.top/api/hk.php?id=346662623366643665383835326
 TVB娱乐新闻,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB娱乐新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah009-golive.flv
+TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB千禧经典,http://205.185.123.236:8899/astro/qianxi/qianxi.m3u8
@@ -1663,6 +1664,7 @@ TVB千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
 TVB千禧经典,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a13-golive.flv
+TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 TVB黄金翡翠,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a11-golive.flv
 TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 TVB黄金翡翠,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1509&tk=97475bb89d45
@@ -1725,6 +1727,7 @@ VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 Now体育,http://rihou.cc:555/tv/[Mt]Now体育
@@ -2098,6 +2101,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 民视综艺,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004
 民视综艺,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
 民视综艺,https://t.freetv.fun/live/min-shi-zong-yi.php
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
 东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
@@ -2257,6 +2261,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34808
 纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34849
+纬来育乐,https://t.freetv.fun/live/wei-lai-yu-le-1-1.m3u8
 靖洋戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖洋戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
 靖洋戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
@@ -2421,6 +2426,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 非凡新闻,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
 非凡新闻,https://hls-gateway.vpstv.net/streams/477083.m3u8
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -4109,8 +4115,8 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 风云足球,http://61.243.161.199:9901/tsfile/live/1122_1.m3u8
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://www.wmviv.com/iptv/bc2t.php?id=mlzq
