@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260828 11:55,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260829 10:32,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -394,7 +394,6 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -495,7 +494,6 @@ CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
 CCTV电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.1.194:5002
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
-CCTV电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 CCTV老故事,http://www.wmviv.com/iptv/bc2t.php?id=lgs
 CCTV老故事,http://113.44.65.227:1234/884121956
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
@@ -535,6 +533,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
+CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
@@ -1736,6 +1735,7 @@ Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Now财经,http://ali.hlspull.yximgs.com/live/f8b026a740d175fa767da4b4156f57d1.flv
 Now财经,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
 Now财经,https://yang-1989.eu.org/live/now-333
+Now财经,http://vlive.itink.com.cn:80/live/KOUbGGkQBzpAswnqrGj9dz23kFUDuvOCUrwD0tNUrsETSxpJRLbaTgjmMA4gVhR.flv
 八大戏剧,http://ali.hlspull.yximgs.com/live/5c8c562d6a8cc6c48d32ae9ff2aff618.flv
 八大戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5422
 八大戏剧,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
@@ -2229,8 +2229,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来育乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandyule_twn
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
-纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34849
 纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34808
+纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34849
 靖洋戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖洋戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
 靖洋戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
@@ -2321,7 +2321,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 台视,http://www.myrealgod.cloudns.be:5000/litv/4gtv-4gtv066
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 台视,http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
-台视,http://220.135.64.124:5050/of-4gtv-4gtv066/index.m3u8?proxy=true
+台视,https://flv-play.clouda.com/live/UeQDRyIALcqRe9SEG0iVsWhe9758nLw87iuCch1rvXDbb.flv
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
@@ -2870,7 +2870,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-贝爷贰厅,https://goodiptv.club/douyu/4332
 贝爷叁厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
 下饭神剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
 下饭神剧,http://159.75.85.63:35455/douyu/276200
@@ -3449,6 +3448,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 相声小品,http://115.48.63.125:9901/tsfile/live/1034_1.m3u8
 相声小品,http://115.48.61.111:9901/tsfile/live/1034_1.m3u8
 相声小品,http://106.53.99.30/tv/gitv.php?id=0015
+相声小品,http://live.nctv.top/douyu1.php?id=9286868
 经典小品,https://live.ottiptv.cc/douyu/9067836
 经典小品,https://goodiptv.club/douyu/9067836
 经典小品,http://59.47.74.33:35455/douyu/9067836
