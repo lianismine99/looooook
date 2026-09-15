@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260915 06:50,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20260916 06:31,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -490,7 +490,6 @@ CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7963&tk=e640d0a1bf70
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
 CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
 CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
-CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
@@ -508,7 +507,6 @@ CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7412&tk=a0c4f6cfaba3
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8595&tk=e503191f8e20
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
 CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
-CCTV老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
@@ -2144,7 +2142,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 东森美洲,http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/269923
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
@@ -3122,8 +3119,8 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 封神榜,https://live.metshop.top/yy/1356043643
 封神榜,http://jiaojirentv.top/2020/yy.php?id=1353426319
 封神榜,https://live.metshop.top/huya/29465849
-封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
+封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,http://alist.xicp.fun:35455/yy/1356043643#https://live.metshop.top/yy/1356043643
 新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
 新白娘子传奇,http://1.94.31.214:35455/yy/1354490667
