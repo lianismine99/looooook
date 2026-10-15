@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261015 06:46,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261016 06:45,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -2211,6 +2211,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
 纬来日本,https://hls.iill.top/api/wlrb/index.m3u8
+纬来日本,http://zby.lskk.top/cdnlive.php?mode=play&id=4a808304b7f0e526b1812d1b880c37c6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 纬来日本,http://31.43.191.125:8080/restream/restream/34809
 纬来日本,http://31.43.191.125:8080/restream/restream/34853
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -2225,6 +2226,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来育乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandyule_twn
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
+纬来育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 纬来育乐,http://31.43.191.125:8080/restream/restream/34808
 纬来育乐,http://31.43.191.125:8080/restream/restream/34849
 靖洋戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -2310,7 +2312,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 台视,http://www.myrealgod.cloudns.be:5000/litv/4gtv-4gtv066
 台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 台视,http://fm1077.serv00.net/Smart.php?id=ttv_taiwan
-台视,http://74.91.26.218:82/live/ttv.m3u8
+台视,http://zby.lskk.top/cdnlive.php?mode=play&id=d1a92e4301097a73f284a279fcf4afbc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
@@ -2349,6 +2351,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 环球电视,https://t.freetv.fun/live/huan-qiu-dian-shi.m3u8
 创世电视,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5178
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+创世电视,http://zby.lskk.top/cdnlive.php?mode=play&id=396e8b2cf9c77c3361b5a3484d9ff3b1&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
