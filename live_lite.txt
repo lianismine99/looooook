@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261030 07:42,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261031 07:21,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -394,6 +394,7 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -464,12 +465,14 @@ CCTV怀旧剧场,http://t8622699o8.vicp.fun:60024/tptv/G_NVXINGSS-CQ.m3u8
 CCTV怀旧剧场,http://119.125.134.176:9901/tsfile/live/1006_1.m3u8
 CCTV怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+CCTV央视文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
@@ -1723,6 +1726,7 @@ Now新闻,http://ali.hlspull.yximgs.com/live/3aad642648cfa3cd48da985cf1c65a01.fl
 Now新闻,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
 Now新闻,https://yang-1989.eu.org/live/now-332
 Now新闻,https://cdn.163189.xyz/163189/now
+Now新闻,http://173.208.234.146/live/nowxw.m3u8
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Now财经,http://ali.hlspull.yximgs.com/live/f8b026a740d175fa767da4b4156f57d1.flv
