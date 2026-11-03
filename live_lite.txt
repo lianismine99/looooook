@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261102 07:12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261103 09:55,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -394,7 +394,6 @@ CCTV第一剧场,http://119.125.134.176:9901/tsfile/live/1040_1.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 CCTV第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
@@ -465,14 +464,12 @@ CCTV怀旧剧场,http://t8622699o8.vicp.fun:60024/tptv/G_NVXINGSS-CQ.m3u8
 CCTV怀旧剧场,http://119.125.134.176:9901/tsfile/live/1006_1.m3u8
 CCTV怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-CCTV央视文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
@@ -533,7 +530,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,https://t.freetv.fun/live/cctv8k.php
 CCTV8K,https://t.freetv.fun/live/cctv-08.php
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
-CCTV8K,http://45.192.97.170:8880/play/149.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226471/index.m3u8?icpid=88888888&servicetype=1
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226592/index.m3u8?icpid=88888888&servicetype=1
@@ -1697,7 +1693,6 @@ TVBS欢乐,http://108.181.20.197/livehttpplay?channel_id=20105
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 TVBS欢乐,http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068
-TVBS欢乐,http://31.43.191.125:8080/restream/restream/34913
 VIUTV,http://bxtv.3a.ink/api.php?id=viutv
 VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -1880,7 +1875,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 中天综合,https://hls-gateway.vpstv.net/streams/477084.m3u8
 中天综合,http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 中天综合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
-中天综合,http://31.43.191.125:8080/restream/restream/34898
 中天亚洲,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv109/index.m3u8?proxy=true
 中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
 中天亚洲,https://4gtv.dxjc.pp.ua/4gtv-4gtv109/index.m3u8
@@ -2137,7 +2131,8 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 东森美洲,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59160.ts
-东森美洲,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269923.ts
+东森美洲,http://hdhd.tk:80/kevinsmith/kevinsmith/28840
+东森美洲,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
@@ -2214,8 +2209,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
 纬来日本,https://hls.iill.top/api/wlrb/index.m3u8
-纬来日本,http://31.43.191.125:8080/restream/restream/34809
-纬来日本,http://31.43.191.125:8080/restream/restream/34853
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
@@ -2228,8 +2221,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 纬来育乐,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandyule_twn
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
-纬来育乐,http://31.43.191.125:8080/restream/restream/34808
-纬来育乐,http://31.43.191.125:8080/restream/restream/34849
 靖洋戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖洋戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
 靖洋戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
@@ -2241,7 +2232,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 靖洋戏剧,https://hls-gateway.vpstv.net/streams/476285.m3u8
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 靖洋戏剧,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖洋戏剧,http://31.43.191.125:8080/restream/restream/34833
 靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 靖天电影,http://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061

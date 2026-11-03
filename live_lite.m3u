@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://github.com/CCSH/IPTV/raw/refs/heads/main/e.xml.gz"
-#EXTINF:-1  tvg-name="20261102 07:12" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20261102 07:12.png"  group-title="更新时间",20261102 07:12
+#EXTINF:-1  tvg-name="20261103 09:55" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/20261103 09:55.png"  group-title="更新时间",20261103 09:55
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png"  group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -783,8 +783,6 @@ https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
 https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 #EXTINF:-1  tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png"  group-title="央视频道",CCTV第一剧场
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1  tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV第一剧场.png"  group-title="央视频道",CCTV第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视台球.png"  group-title="央视频道",CCTV央视台球
@@ -925,8 +923,6 @@ http://119.125.134.176:9901/tsfile/live/1006_1.m3u8
 http://60.10.167.88:808/hls/56/index.m3u8
 #EXTINF:-1  tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV怀旧剧场.png"  group-title="央视频道",CCTV怀旧剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-#EXTINF:-1  tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV怀旧剧场.png"  group-title="央视频道",CCTV怀旧剧场
-https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
 http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
@@ -939,8 +935,6 @@ http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV央视文化精品.png"  group-title="央视频道",CCTV央视文化精品
-https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1  tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV卫生健康.png"  group-title="央视频道",CCTV卫生健康
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV卫生健康.png"  group-title="央视频道",CCTV卫生健康
@@ -1061,8 +1055,6 @@ https://t.freetv.fun/live/cctv8k.php
 https://t.freetv.fun/live/cctv-08.php
 #EXTINF:-1  tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png"  group-title="央视频道",CCTV8K
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1  tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV8K.png"  group-title="央视频道",CCTV8K
-http://45.192.97.170:8880/play/149.m3u8
 #EXTINF:-1  tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png"  group-title="央视频道",CETV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1  tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png"  group-title="央视频道",CETV1
@@ -3377,8 +3369,6 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 #EXTINF:-1  tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS欢乐.png"  group-title="港澳台",TVBS欢乐
 http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068
-#EXTINF:-1  tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/TVBS欢乐.png"  group-title="港澳台",TVBS欢乐
-http://31.43.191.125:8080/restream/restream/34913
 #EXTINF:-1  tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/VIUTV.png"  group-title="港澳台",VIUTV
 http://bxtv.3a.ink/api.php?id=viutv
 #EXTINF:-1  tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/VIUTV.png"  group-title="港澳台",VIUTV
@@ -3743,8 +3733,6 @@ https://hls-gateway.vpstv.net/streams/477084.m3u8
 http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 #EXTINF:-1  tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天综合.png"  group-title="港澳台",中天综合
 http://fm1077.serv00.net/Smart.php?id=ctizhonghe
-#EXTINF:-1  tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天综合.png"  group-title="港澳台",中天综合
-http://31.43.191.125:8080/restream/restream/34898
 #EXTINF:-1  tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天亚洲.png"  group-title="港澳台",中天亚洲
 http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv109/index.m3u8?proxy=true
 #EXTINF:-1  tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/中天亚洲.png"  group-title="港澳台",中天亚洲
@@ -4258,7 +4246,9 @@ http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 #EXTINF:-1  tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲.png"  group-title="港澳台",东森美洲
 http://mtayeh.ottb.xyz/live/774710333494/659822672281/59160.ts
 #EXTINF:-1  tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲.png"  group-title="港澳台",东森美洲
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269923.ts
+http://hdhd.tk:80/kevinsmith/kevinsmith/28840
+#EXTINF:-1  tvg-name="东森美洲" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森美洲.png"  group-title="港澳台",东森美洲
+http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
 #EXTINF:-1  tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森电影.png"  group-title="港澳台",东森电影
 http://live4play.uk/livehttpplay?channel_id=20077
 #EXTINF:-1  tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东森电影.png"  group-title="港澳台",东森电影
@@ -4411,10 +4401,6 @@ https://hls-gateway.vpstv.net/streams/477039.m3u8
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan
 #EXTINF:-1  tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来日本.png"  group-title="港澳台",纬来日本
 https://hls.iill.top/api/wlrb/index.m3u8
-#EXTINF:-1  tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来日本.png"  group-title="港澳台",纬来日本
-http://31.43.191.125:8080/restream/restream/34809
-#EXTINF:-1  tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来日本.png"  group-title="港澳台",纬来日本
-http://31.43.191.125:8080/restream/restream/34853
 #EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
@@ -4439,10 +4425,6 @@ http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandyule_tw
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
 rtmp://9hv9.mine.nu/sat/tv701
-#EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
-http://31.43.191.125:8080/restream/restream/34808
-#EXTINF:-1  tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/纬来育乐.png"  group-title="港澳台",纬来育乐
-http://31.43.191.125:8080/restream/restream/34849
 #EXTINF:-1  tvg-name="靖洋戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧.png"  group-title="港澳台",靖洋戏剧
 https://mao.ffmking888.dpdns.org/?id=6Z2W5rSL5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1  tvg-name="靖洋戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧.png"  group-title="港澳台",靖洋戏剧
@@ -4465,8 +4447,6 @@ https://hls-gateway.vpstv.net/streams/476285.m3u8
 https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 #EXTINF:-1  tvg-name="靖洋戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧.png"  group-title="港澳台",靖洋戏剧
 http://litv.zapi.us.kg/?id=4gtv-4gtv045
-#EXTINF:-1  tvg-name="靖洋戏剧" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖洋戏剧.png"  group-title="港澳台",靖洋戏剧
-http://31.43.191.125:8080/restream/restream/34833
 #EXTINF:-1  tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天电影.png"  group-title="港澳台",靖天电影
 http://live4play.uk/livehttpplay?channel_id=12037
 #EXTINF:-1  tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/靖天电影.png"  group-title="港澳台",靖天电影
