@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261103 09:55,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261104 08:16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -373,12 +373,14 @@ CCTV风云剧场,http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
 CCTV风云剧场,http://119.125.134.176:9901/tsfile/live/1042_1.m3u8
 CCTV风云剧场,http://60.10.167.88:808/hls/57/index.m3u8
 CCTV风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,http://dassby.qqff.top:99/live/兵器科技/index.m3u8
 CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435
 CCTV兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 CCTV第一剧场,http://xc.mfykeke.top:35455/nptv/dyjc.m3u8
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -423,6 +425,7 @@ CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-1.m3u8
 CCTV风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu.m3u8
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
@@ -442,6 +445,8 @@ CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.1.192:5002
 CCTV风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le.m3u8
 CCTV风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+CCTV风云音乐,http://45.192.97.170:8880/play/433.m3u8
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
@@ -469,10 +474,12 @@ CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV央视文化精品,http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
 CCTV国防军事,http://nas.hssvm.com:8888/udp/225.1.1.187:5002
 CCTV发现之旅,http://www.wmviv.com/iptv/bc2t.php?id=fxzl
@@ -484,6 +491,7 @@ CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5248&tk=a0c4f6cfaba3
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7963&tk=e640d0a1bf70
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
 CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
+CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
 CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -491,6 +499,7 @@ CCTV电视指南,http://dassby.qqff.top:99/live/电视指南/index.m3u8
 CCTV电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.1.194:5002
 CCTV电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8
+CCTV电视指南,http://204.12.221.218:8181/3m1080p/dszn.m3u8
 CCTV老故事,http://www.wmviv.com/iptv/bc2t.php?id=lgs
 CCTV老故事,http://113.44.65.227:1234/884121956
 CCTV老故事,http://nas.hssvm.com:8888/udp/225.1.1.188:5002
