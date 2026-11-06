@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261105 08:35,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261106 08:36,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -373,6 +373,7 @@ CCTV风云剧场,http://jf.jxx2023.work:40446/tsfile/live/1150_1.m3u8
 CCTV风云剧场,http://119.125.134.176:9901/tsfile/live/1042_1.m3u8
 CCTV风云剧场,http://60.10.167.88:808/hls/57/index.m3u8
 CCTV风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
 CCTV风云剧场,http://207.56.13.146:81/cdnlive/fyjc.m3u8
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
@@ -380,6 +381,7 @@ CCTV兵器科技,http://dassby.qqff.top:99/live/兵器科技/index.m3u8
 CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435
 CCTV兵器科技,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 CCTV第一剧场,http://xc.mfykeke.top:35455/nptv/dyjc.m3u8
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -437,6 +439,7 @@ CCTV世界地理,http://60.7.56.33:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://36.129.204.117:9003//hls/78/index.m3u8
 CCTV世界地理,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV世界地理,http://207.56.13.146:81/cdnlive/sjdl.m3u8
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
@@ -444,8 +447,6 @@ CCTV风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.1.192:5002
 CCTV风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le.m3u8
 CCTV风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
-CCTV风云音乐,http://45.192.97.170:8880/play/433.m3u8
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
@@ -454,6 +455,7 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.1.190:5002
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 CCTV怀旧剧场,http://xc.mfykeke.top:35455/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
@@ -468,17 +470,16 @@ CCTV怀旧剧场,http://t8622699o8.vicp.fun:60024/tptv/G_NVXINGSS-CQ.m3u8
 CCTV怀旧剧场,http://119.125.134.176:9901/tsfile/live/1006_1.m3u8
 CCTV怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u8
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
 CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV央视文化精品,http://dassby.qqff.top:99/live/文化精品/index.m3u8
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-CCTV央视文化精品,http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
 CCTV国防军事,http://nas.hssvm.com:8888/udp/225.1.1.187:5002
 CCTV发现之旅,http://www.wmviv.com/iptv/bc2t.php?id=fxzl
@@ -509,6 +510,7 @@ CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2166&tk=2aca1ad9a849
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7412&tk=a0c4f6cfaba3
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8595&tk=e503191f8e20
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
+CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
@@ -2139,7 +2141,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森美洲,https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 东森美洲,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59160.ts
-东森美洲,http://hdhd.tk:80/kevinsmith/kevinsmith/28840
 东森美洲,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269923.ts
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
