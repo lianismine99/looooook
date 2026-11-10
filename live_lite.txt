@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261109 07:16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261110 10:27,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -458,8 +458,6 @@ CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV女性时尚,http://nas.hssvm.com:8888/udp/225.1.1.190:5002
 CCTV女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8
 CCTV女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
-CCTV女性时尚,http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
 CCTV怀旧剧场,http://xc.mfykeke.top:35455/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
@@ -482,15 +480,13 @@ CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 CCTV央视文化精品,http://nas.hssvm.com:8888/udp/225.1.1.189:5002
 CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV央视文化精品,http://204.12.221.218:8181/3m1080p/ysjp.m3u8
-CCTV央视文化精品,http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
 CCTV央视文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
-CCTV央视文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
+CCTV央视文化精品,http://bztv.tvbus.cc:8081/cdnlive/ysjp.m3u8
 CCTV央视文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV卫生健康,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
-CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV国防军事,http://nas.hssvm.com:8888/udp/225.1.1.187:5002
 CCTV发现之旅,http://www.wmviv.com/iptv/bc2t.php?id=fxzl
 CCTV发现之旅,http://113.44.65.227:1234/624878970
@@ -521,8 +517,6 @@ CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7412&tk=a0c4f6cfaba3
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8595&tk=e503191f8e20
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
 CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
-CCTV老故事,http://204.12.221.218:8181/3m1080p/lgs.m3u8
-CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
@@ -1953,6 +1947,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 中视菁采,https://tv.iill.top/litv/4gtv-4gtv064
 中视菁采,https://hls-gateway.vpstv.net/streams/476260.m3u8
 中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 中视经典,https://mao.ffmking888.dpdns.org/?id=5Lit6KaW57aT5YW45Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 中视经典,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv080/index.m3u8
 中视经典,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv080/index.m3u8?proxy=true
@@ -1971,6 +1966,7 @@ Now财经,https://yang-1989.eu.org/live/now-333
 中视经典,https://hls-gateway.vpstv.net/streams/476362.m3u8
 中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
 中视经典,http://fm1077.serv00.net/Smart.php?id=zhongshi_twn
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视,https://mao.ffmking888.dpdns.org/?id=5rCR6KaW&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
@@ -2477,6 +2473,7 @@ RTHK32,https://cdn.163189.xyz/163189/rthk32
 RTHK32,http://ali.hlspull.yximgs.com/live/d2f813d3fc59cde25b09ace96968a166.flv
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://t.freetv.fun/live/rthk32-sg.m3u8
+RTHK32,https://fast.hidns.vip/163189/rthk32
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 
@@ -2862,6 +2859,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 邦德影院,http://43.138.170.29:35455/douyu/9292499
 华语影视,http://www.douzhicloud.site:35455/douyu/3928
 华语影视,http://www.goodiptv.club/douyu/3928
+可乐影视,https://live.ottiptv.cc/douyu/20415
 贝爷壹厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 贝爷贰厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
