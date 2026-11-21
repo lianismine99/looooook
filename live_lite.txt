@@ -1,5 +1,5 @@
 更新时间,#genre#
-20261120 09:30,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+20261121 09:00,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 央视频道,#genre#
@@ -488,6 +488,8 @@ CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5248&tk=a0c4f6cfaba3
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7963&tk=e640d0a1bf70
 CCTV发现之旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0656&tk=2aca1ad9a849
 CCTV发现之旅,http://8.138.7.223/tv/migu3.php?id=fxzl
+CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
 CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
@@ -505,6 +507,8 @@ CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2166&tk=2aca1ad9a849
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7412&tk=a0c4f6cfaba3
 CCTV老故事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8595&tk=e503191f8e20
 CCTV老故事,http://8.138.7.223/tv/migu3.php?id=lgs
+CCTV老故事,http://204.12.221.218:8181/3m1080p/lgs.m3u8
+CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
@@ -1726,7 +1730,6 @@ Now新闻,http://ali.hlspull.yximgs.com/live/3aad642648cfa3cd48da985cf1c65a01.fl
 Now新闻,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
 Now新闻,https://yang-1989.eu.org/live/now-332
 Now新闻,https://cdn.163189.xyz/163189/now
-Now新闻,http://173.208.234.146/live/nowxw.m3u8
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 Now财经,http://ali.hlspull.yximgs.com/live/f8b026a740d175fa767da4b4156f57d1.flv
@@ -2134,8 +2137,6 @@ Now财经,https://yang-1989.eu.org/live/now-333
 东森美洲,http://38.64.72.148/hls/modn/list/2016/playlist.m3u8
 东森美洲,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59160.ts
 东森美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269923.ts
-东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
-东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
@@ -2626,10 +2627,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 成龙,http://1.94.31.214:35455/huya/11342386
 王晶,http://live.nctv.top/huya.php?id=11602058
-王晶,http://1.94.31.214:35455/huya/11602058
 沈腾,http://www.xzbn.site:35455/huya/11601968
-沈腾,http://1.94.31.214:35455/huya/11601968
-黄渤,http://1.94.31.214:35455/huya/11352876
 林正英,http://live.nctv.top/huya.php?id=11342421
 林正英,http://74.91.26.218:82/live/vllzy.m3u8
 林正英,https://stream1.freetv.fun/lin-zheng-ying-4.ctv
@@ -2640,7 +2638,6 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 林正英,http://43.138.170.29:35455/yy/34229877
 林正英,http://43.138.170.29:35455/yy/1453996620
 林正英,http://43.138.170.29:35455/yy/1354932444
-强森,http://1.94.31.214:35455/huya/21059581
 巨石强森,http://www.xzbn.site:35455/huya/21059581
 杰森斯坦森,http://www.xzbn.site:35455/huya/21059588
 杰森斯坦森,http://live.nctv.top/huya.php?id=21059588
@@ -3360,6 +3357,7 @@ AMC电影台,http://104.244.79.187:5050/litv/4gtv-4gtv017
 我的体育老师,http://159.75.85.63:35455/yy/1382745169
 我的体育老师,http://jiaojirentv.top/2020/yy.php?id=1382745169
 我的体育老师,http://43.138.170.29:35455/yy/1382745169
+我的体育老师,https://mursor.ottiptv.cc/yy/1382745169
 如果岁月轮播,http://159.75.85.63:35455/yy/1382736883
 流金岁月轮播,http://159.75.85.63:35455/yy/1382749906
 欢乐颂电视剧,http://159.75.85.63:35455/douyu/3756989
